@@ -1,0 +1,1002 @@
+user_id,name,age,gender,city,income_bracket,persona,avg_price
+1,Nikhil Singh,34,Other,Hyderabad,Upper-Middle,Active Family Shopper,11524.27
+2,Vikram Khan,24,Other,Mumbai,Middle,Avid Reader,10640.79
+3,Anaya Singh,22,Other,Chennai,Middle,Active Family Shopper,3720.29
+4,Tarun Singh,31,Female,Delhi,Middle,Everyday Essentials Shopper,10154.46
+5,Kabir Mehta,26,Female,Ahmedabad,Middle,Everyday Essentials Shopper,9864.06
+6,Saanvi Khan,18,Male,Pune,Upper-Middle,Avid Reader,12722.59
+7,Saanvi Iyer,32,Female,Bengaluru,Upper-Middle,Everyday Essentials Shopper,11086.93
+8,Rohan Mukherjee,33,Male,Pune,Lower-Middle,Active Family Shopper,7974.98
+9,Diya Singh,41,Female,Hyderabad,Low,Active Family Shopper,4470.52
+10,Advika Singh,42,Female,Jaipur,Middle,Everyday Essentials Shopper,8636.3
+11,Kabir Iyer,26,Other,Pune,Lower-Middle,Everyday Essentials Shopper,5729.58
+12,Kabir Mehta,18,Other,Ahmedabad,Middle,Everyday Essentials Shopper,10306.93
+13,Riya Mehta,43,Male,Delhi,Upper-Middle,Active Family Shopper,2639.87
+14,Rohan Mehta,32,Male,Hyderabad,Middle,Premium Tech Enthusiast,17715.92
+15,Advika Nair,18,Female,Ahmedabad,Middle,Everyday Essentials Shopper,4324.3
+16,Zara Singh,19,Other,Mumbai,Upper-Middle,Everyday Essentials Shopper,12359.4
+17,Vikram Patel,30,Female,Pune,Upper-Middle,Premium Tech Enthusiast,11169.05
+18,Shreya Nair,28,Female,Mumbai,Middle,Avid Reader,4690.71
+19,Kavya Iyer,27,Other,Chennai,Low,Active Family Shopper,9572.91
+20,Rohan Mehta,31,Other,Chennai,Upper-Middle,Everyday Essentials Shopper,6390.02
+21,Ira Khan,46,Male,Bengaluru,High,Everyday Essentials Shopper,3004.24
+22,Tarun Iyer,18,Female,Kochi,Upper-Middle,Everyday Essentials Shopper,6822.06
+23,Ishan Reddy,31,Other,Kochi,Middle,Everyday Essentials Shopper,17492.8
+24,Advika Nair,18,Male,Bengaluru,Middle,Premium Tech Enthusiast,17661.76
+25,Zara Mukherjee,29,Female,Bengaluru,Middle,Everyday Essentials Shopper,7610.9
+26,Rohan Patel,27,Female,Jaipur,Lower-Middle,Everyday Essentials Shopper,4460.79
+27,Tarun Khan,39,Other,Chennai,Middle,Active Family Shopper,4319.02
+28,Rohan Mukherjee,23,Other,Ahmedabad,Middle,Avid Reader,8487.31
+29,Riya Mehta,32,Male,Pune,Lower-Middle,Everyday Essentials Shopper,10562.78
+30,Diya Das,30,Other,Chennai,Upper-Middle,Active Family Shopper,7714.41
+31,Aarav Khan,43,Female,Chennai,High,Everyday Essentials Shopper,7864.08
+32,Nikhil Khan,22,Male,Mumbai,Middle,Everyday Essentials Shopper,3681.35
+33,Kabir Mukherjee,29,Other,Jaipur,Upper-Middle,Premium Tech Enthusiast,10516.15
+34,Tarun Patel,29,Other,Hyderabad,Low,Avid Reader,8842.63
+35,Diya Reddy,42,Male,Ahmedabad,Lower-Middle,Avid Reader,1096.74
+36,Ishan Das,34,Other,Hyderabad,Middle,Everyday Essentials Shopper,4956.02
+37,Ira Mehta,36,Other,Mumbai,Middle,Active Family Shopper,15177.15
+38,Rohan Reddy,27,Other,Pune,High,Active Family Shopper,7042.48
+39,Zara Mukherjee,31,Female,Pune,High,Active Family Shopper,7197.33
+40,Yash Mukherjee,27,Female,Kochi,Lower-Middle,Everyday Essentials Shopper,5933.22
+41,Neeraj Khan,31,Female,Hyderabad,High,Everyday Essentials Shopper,14970.48
+42,Neeraj Mukherjee,36,Female,Hyderabad,Upper-Middle,Everyday Essentials Shopper,18519.4
+43,Riya Singh,36,Other,Hyderabad,Middle,Everyday Essentials Shopper,8096.79
+44,Zara Iyer,24,Female,Pune,Middle,Everyday Essentials Shopper,10081.39
+45,Neeraj Singh,36,Male,Jaipur,Middle,Everyday Essentials Shopper,2685.21
+46,Tarun Das,27,Female,Bengaluru,Lower-Middle,Premium Tech Enthusiast,21837.29
+47,Riya Sharma,30,Female,Ahmedabad,Middle,Everyday Essentials Shopper,12318.11
+48,Zara Reddy,29,Male,Kochi,Lower-Middle,Premium Tech Enthusiast,12038.42
+49,Anaya Singh,35,Male,Delhi,Middle,Premium Tech Enthusiast,10267.69
+50,Nikhil Reddy,25,Male,Mumbai,Middle,Everyday Essentials Shopper,5615.26
+51,Rohan Reddy,30,Other,Hyderabad,Low,Everyday Essentials Shopper,9856.42
+52,Vikram Iyer,40,Other,Ahmedabad,Low,Everyday Essentials Shopper,7956.71
+53,Ishan Nair,38,Other,Bengaluru,Middle,Active Family Shopper,3264.75
+54,Zara Mehta,30,Other,Hyderabad,Upper-Middle,Premium Tech Enthusiast,13703.11
+55,Riya Iyer,18,Female,Mumbai,Upper-Middle,Premium Tech Enthusiast,21417.41
+56,Aryan Khan,35,Male,Kochi,Middle,Everyday Essentials Shopper,14117.38
+57,Advika Patel,36,Female,Bengaluru,Upper-Middle,Everyday Essentials Shopper,8027.38
+58,Advika Das,29,Female,Bengaluru,Upper-Middle,Premium Tech Enthusiast,16828.91
+59,Riya Nair,40,Male,Chennai,Middle,Active Family Shopper,6461.94
+60,Diya Iyer,46,Female,Ahmedabad,High,Everyday Essentials Shopper,8759.43
+61,Anaya Mukherjee,18,Female,Bengaluru,Upper-Middle,Avid Reader,16586.18
+62,Yash Singh,42,Male,Delhi,Lower-Middle,Everyday Essentials Shopper,3453.78
+63,Yash Singh,26,Other,Bengaluru,Low,Active Family Shopper,5486.97
+64,Saanvi Singh,22,Other,Hyderabad,Lower-Middle,Everyday Essentials Shopper,12847.11
+65,Tarun Das,20,Other,Pune,Low,Everyday Essentials Shopper,4539.64
+66,Diya Patel,30,Male,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,10665.35
+67,Mira Nair,38,Female,Kolkata,Lower-Middle,Everyday Essentials Shopper,14399.23
+68,Neeraj Iyer,33,Female,Jaipur,Middle,Premium Tech Enthusiast,10825.29
+69,Aarav Singh,29,Other,Pune,Middle,Everyday Essentials Shopper,6374.77
+70,Advika Sharma,21,Female,Chennai,Lower-Middle,Avid Reader,2658.03
+71,Rohan Singh,48,Other,Delhi,Middle,Everyday Essentials Shopper,8278.86
+72,Riya Iyer,18,Other,Hyderabad,Lower-Middle,Avid Reader,3865.66
+73,Ishan Mehta,40,Male,Ahmedabad,Middle,Everyday Essentials Shopper,8829.48
+74,Ira Iyer,36,Female,Kochi,Upper-Middle,Premium Tech Enthusiast,31747.31
+75,Anaya Reddy,36,Male,Jaipur,Upper-Middle,Everyday Essentials Shopper,6298.48
+76,Aryan Mukherjee,27,Female,Kochi,Middle,Active Family Shopper,7520.76
+77,Aryan Khan,38,Male,Mumbai,Upper-Middle,Everyday Essentials Shopper,8376.11
+78,Rohan Reddy,18,Other,Kochi,Low,Everyday Essentials Shopper,2569.38
+79,Saanvi Mukherjee,44,Female,Delhi,Middle,Avid Reader,7419.2
+80,Nikhil Mehta,53,Male,Kochi,Middle,Active Family Shopper,1405.27
+81,Advika Mehta,30,Male,Kochi,Middle,Everyday Essentials Shopper,5372.96
+82,Nikhil Nair,34,Other,Ahmedabad,Middle,Everyday Essentials Shopper,14592.05
+83,Riya Nair,26,Female,Chennai,Upper-Middle,Avid Reader,11913.78
+84,Kavya Khan,22,Male,Mumbai,Middle,Everyday Essentials Shopper,12316.69
+85,Aryan Mukherjee,30,Male,Delhi,High,Active Family Shopper,21310.5
+86,Zara Nair,25,Female,Kolkata,Lower-Middle,Premium Tech Enthusiast,15438.12
+87,Ishan Das,36,Female,Kolkata,Middle,Everyday Essentials Shopper,12487.43
+88,Tarun Das,28,Male,Kochi,Low,Everyday Essentials Shopper,7886.33
+89,Shreya Sharma,30,Male,Kochi,Lower-Middle,Everyday Essentials Shopper,19006.68
+90,Ishan Reddy,33,Male,Mumbai,High,Everyday Essentials Shopper,5527.16
+91,Yash Mukherjee,24,Female,Kochi,Lower-Middle,Premium Tech Enthusiast,11990.78
+92,Mira Reddy,35,Female,Pune,Lower-Middle,Everyday Essentials Shopper,13805.21
+93,Kavya Sharma,33,Male,Kolkata,Middle,Premium Tech Enthusiast,15188.99
+94,Aarav Reddy,30,Male,Delhi,Low,Everyday Essentials Shopper,13472.45
+95,Advika Mehta,28,Other,Mumbai,Lower-Middle,Avid Reader,3791.38
+96,Advika Das,38,Female,Hyderabad,Middle,Everyday Essentials Shopper,3735.76
+97,Advika Patel,22,Other,Chennai,Lower-Middle,Active Family Shopper,3230.55
+98,Nikhil Iyer,48,Other,Jaipur,Upper-Middle,Everyday Essentials Shopper,7301.37
+99,Saanvi Reddy,31,Female,Bengaluru,High,Active Family Shopper,8971.32
+100,Rohan Reddy,25,Female,Chennai,Lower-Middle,Everyday Essentials Shopper,15145.41
+101,Anaya Khan,32,Other,Bengaluru,Middle,Everyday Essentials Shopper,19291.59
+102,Vikram Mukherjee,48,Female,Mumbai,High,Avid Reader,5066.68
+103,Tarun Mukherjee,32,Female,Kolkata,Middle,Everyday Essentials Shopper,12904.26
+104,Riya Das,38,Male,Kochi,Middle,Premium Tech Enthusiast,26272.53
+105,Mira Singh,24,Other,Bengaluru,Upper-Middle,Everyday Essentials Shopper,13528.53
+106,Advika Mukherjee,25,Female,Kolkata,Middle,Everyday Essentials Shopper,3222.74
+107,Ishan Das,40,Male,Chennai,Lower-Middle,Premium Tech Enthusiast,16949.55
+108,Aryan Mehta,45,Female,Delhi,Middle,Premium Tech Enthusiast,12234.55
+109,Kavya Nair,29,Female,Kolkata,Middle,Active Family Shopper,3257.0
+110,Ira Nair,33,Male,Hyderabad,Upper-Middle,Premium Tech Enthusiast,12019.27
+111,Nikhil Mukherjee,29,Male,Ahmedabad,Lower-Middle,Premium Tech Enthusiast,11199.12
+112,Saanvi Singh,33,Male,Hyderabad,Upper-Middle,Everyday Essentials Shopper,5623.31
+113,Diya Mehta,41,Male,Jaipur,Middle,Active Family Shopper,11421.32
+114,Tarun Reddy,20,Other,Pune,Upper-Middle,Active Family Shopper,15614.67
+115,Tarun Mehta,32,Other,Pune,Lower-Middle,Everyday Essentials Shopper,9215.56
+116,Shreya Mukherjee,45,Female,Ahmedabad,Low,Avid Reader,12990.51
+117,Zara Iyer,35,Male,Pune,Lower-Middle,Everyday Essentials Shopper,4478.62
+118,Advika Khan,23,Male,Bengaluru,Low,Active Family Shopper,5603.2
+119,Anaya Khan,28,Other,Kolkata,Lower-Middle,Avid Reader,6854.34
+120,Kavya Iyer,43,Male,Kolkata,Middle,Active Family Shopper,9858.39
+121,Mira Mehta,19,Other,Pune,Lower-Middle,Active Family Shopper,7488.38
+122,Zara Mehta,38,Female,Bengaluru,Middle,Everyday Essentials Shopper,11477.35
+123,Shreya Patel,36,Male,Kochi,Middle,Everyday Essentials Shopper,4523.55
+124,Anaya Nair,25,Other,Mumbai,Upper-Middle,Everyday Essentials Shopper,9376.15
+125,Aryan Nair,27,Male,Kolkata,Low,Everyday Essentials Shopper,6073.57
+126,Mira Sharma,22,Other,Bengaluru,Low,Everyday Essentials Shopper,12353.06
+127,Rohan Mehta,43,Female,Mumbai,Middle,Everyday Essentials Shopper,5679.2
+128,Ira Mehta,35,Other,Ahmedabad,Low,Premium Tech Enthusiast,21037.37
+129,Anaya Mukherjee,33,Female,Mumbai,Low,Everyday Essentials Shopper,8603.0
+130,Neeraj Mukherjee,35,Female,Mumbai,Middle,Active Family Shopper,19055.17
+131,Vikram Patel,39,Male,Delhi,Middle,Value-Seeking Homemaker,1813.73
+132,Mira Reddy,23,Other,Kochi,Lower-Middle,Everyday Essentials Shopper,4336.01
+133,Shreya Singh,31,Female,Delhi,Lower-Middle,Everyday Essentials Shopper,2535.09
+134,Tarun Mehta,28,Other,Hyderabad,High,Everyday Essentials Shopper,2579.3
+135,Mira Singh,30,Other,Delhi,Middle,Active Family Shopper,3220.89
+136,Advika Sharma,30,Female,Kolkata,Lower-Middle,Everyday Essentials Shopper,16354.05
+137,Zara Nair,36,Other,Mumbai,Middle,Everyday Essentials Shopper,5811.07
+138,Aryan Mehta,36,Female,Pune,Middle,Avid Reader,9587.26
+139,Diya Mukherjee,18,Male,Hyderabad,Lower-Middle,Avid Reader,6929.8
+140,Nikhil Mehta,24,Female,Mumbai,Upper-Middle,Premium Tech Enthusiast,29511.75
+141,Neeraj Mukherjee,37,Other,Mumbai,Lower-Middle,Budget Fashion Hunter,1632.59
+142,Saanvi Nair,35,Male,Jaipur,Low,Premium Tech Enthusiast,15458.35
+143,Tarun Sharma,26,Female,Bengaluru,Middle,Everyday Essentials Shopper,6781.55
+144,Nikhil Das,24,Other,Kochi,Lower-Middle,Active Family Shopper,18381.47
+145,Ishan Sharma,35,Other,Pune,Low,Everyday Essentials Shopper,2441.69
+146,Vikram Reddy,25,Male,Pune,Middle,Everyday Essentials Shopper,4015.31
+147,Ira Khan,21,Female,Pune,Low,Everyday Essentials Shopper,16726.75
+148,Neeraj Mehta,33,Female,Hyderabad,Lower-Middle,Active Family Shopper,13506.27
+149,Tarun Das,22,Male,Jaipur,Middle,Everyday Essentials Shopper,14670.06
+150,Aryan Khan,31,Female,Hyderabad,Middle,Avid Reader,1398.58
+151,Aryan Singh,30,Male,Kolkata,Middle,Premium Tech Enthusiast,11784.21
+152,Ishan Das,26,Female,Pune,Low,Premium Tech Enthusiast,21029.13
+153,Aarav Singh,42,Female,Pune,Upper-Middle,Everyday Essentials Shopper,14202.85
+154,Diya Patel,21,Male,Bengaluru,Middle,Active Family Shopper,9056.38
+155,Anaya Mukherjee,18,Other,Kolkata,Low,Everyday Essentials Shopper,2469.4
+156,Aryan Iyer,40,Other,Delhi,Middle,Avid Reader,12453.47
+157,Saanvi Das,38,Male,Chennai,Middle,Avid Reader,3351.83
+158,Aryan Mukherjee,18,Male,Jaipur,Middle,Active Family Shopper,7346.51
+159,Tarun Patel,18,Male,Chennai,Lower-Middle,Everyday Essentials Shopper,6792.57
+160,Zara Patel,41,Male,Bengaluru,Middle,Everyday Essentials Shopper,7850.39
+161,Vikram Singh,40,Female,Delhi,Lower-Middle,Everyday Essentials Shopper,7048.27
+162,Mira Mehta,19,Other,Jaipur,Lower-Middle,Avid Reader,24682.63
+163,Diya Patel,28,Female,Mumbai,Upper-Middle,Everyday Essentials Shopper,21970.82
+164,Saanvi Khan,28,Female,Pune,Middle,Everyday Essentials Shopper,2758.58
+165,Vikram Khan,27,Male,Chennai,Lower-Middle,Everyday Essentials Shopper,10367.12
+166,Kavya Mehta,23,Female,Bengaluru,High,Everyday Essentials Shopper,15179.86
+167,Saanvi Singh,27,Other,Ahmedabad,High,Premium Tech Enthusiast,23226.34
+168,Mira Iyer,34,Female,Chennai,Upper-Middle,Everyday Essentials Shopper,10500.43
+169,Tarun Iyer,33,Male,Jaipur,Lower-Middle,Premium Tech Enthusiast,11489.27
+170,Anaya Patel,18,Other,Kochi,Low,Everyday Essentials Shopper,8394.52
+171,Yash Reddy,42,Female,Chennai,Upper-Middle,Everyday Essentials Shopper,10312.14
+172,Aryan Das,30,Other,Ahmedabad,Low,Everyday Essentials Shopper,10013.8
+173,Riya Reddy,23,Female,Bengaluru,Middle,Everyday Essentials Shopper,8392.45
+174,Tarun Sharma,30,Female,Jaipur,Middle,Active Family Shopper,4336.38
+175,Tarun Mukherjee,18,Other,Kolkata,Middle,Everyday Essentials Shopper,3489.57
+176,Shreya Mukherjee,43,Other,Delhi,Low,Everyday Essentials Shopper,10242.82
+177,Mira Iyer,33,Male,Jaipur,Low,Everyday Essentials Shopper,3953.84
+178,Tarun Iyer,26,Female,Delhi,Low,Avid Reader,9504.76
+179,Neeraj Reddy,39,Other,Kochi,Middle,Everyday Essentials Shopper,10486.85
+180,Nikhil Reddy,28,Female,Pune,Lower-Middle,Everyday Essentials Shopper,14271.51
+181,Nikhil Mukherjee,28,Male,Pune,High,Everyday Essentials Shopper,14583.25
+182,Zara Sharma,18,Female,Kolkata,Upper-Middle,Avid Reader,5533.0
+183,Aryan Sharma,32,Other,Bengaluru,Lower-Middle,Active Family Shopper,12003.95
+184,Saanvi Mehta,38,Male,Kochi,Middle,Avid Reader,8403.82
+185,Zara Sharma,41,Female,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,13985.03
+186,Riya Nair,39,Other,Delhi,Low,Everyday Essentials Shopper,12403.35
+187,Saanvi Sharma,29,Other,Bengaluru,Upper-Middle,Everyday Essentials Shopper,6753.86
+188,Mira Mukherjee,44,Male,Kochi,Lower-Middle,Budget Fashion Hunter,1903.12
+189,Anaya Das,27,Female,Hyderabad,Upper-Middle,Premium Tech Enthusiast,11757.69
+190,Kabir Patel,44,Other,Kolkata,Lower-Middle,Everyday Essentials Shopper,5059.85
+191,Ira Reddy,33,Female,Jaipur,Middle,Active Family Shopper,5132.14
+192,Aarav Reddy,18,Male,Chennai,Upper-Middle,Everyday Essentials Shopper,5725.23
+193,Aryan Khan,26,Male,Kochi,Lower-Middle,Everyday Essentials Shopper,4588.05
+194,Saanvi Reddy,37,Female,Delhi,Lower-Middle,Active Family Shopper,5656.36
+195,Zara Mukherjee,21,Other,Pune,Middle,Active Family Shopper,10694.65
+196,Ira Das,42,Other,Delhi,Lower-Middle,Active Family Shopper,4016.44
+197,Yash Khan,43,Male,Chennai,Upper-Middle,Everyday Essentials Shopper,3662.76
+198,Nikhil Sharma,24,Other,Bengaluru,Lower-Middle,Everyday Essentials Shopper,8100.79
+199,Mira Singh,42,Male,Bengaluru,Lower-Middle,Active Family Shopper,13643.66
+200,Ishan Mukherjee,22,Female,Kolkata,Middle,Everyday Essentials Shopper,13234.95
+201,Nikhil Das,39,Female,Bengaluru,Middle,Active Family Shopper,4081.83
+202,Anaya Patel,20,Other,Bengaluru,Middle,Everyday Essentials Shopper,6005.59
+203,Ishan Patel,18,Female,Ahmedabad,Middle,Avid Reader,6767.28
+204,Shreya Nair,35,Female,Bengaluru,Lower-Middle,Everyday Essentials Shopper,4779.52
+205,Tarun Mukherjee,39,Other,Ahmedabad,Middle,Everyday Essentials Shopper,3752.27
+206,Zara Das,30,Other,Ahmedabad,Middle,Everyday Essentials Shopper,6655.12
+207,Aryan Khan,18,Male,Hyderabad,Lower-Middle,Everyday Essentials Shopper,10908.04
+208,Neeraj Reddy,37,Other,Chennai,Lower-Middle,Everyday Essentials Shopper,3194.63
+209,Yash Khan,27,Other,Ahmedabad,Middle,Everyday Essentials Shopper,6355.56
+210,Diya Khan,47,Male,Chennai,Upper-Middle,Avid Reader,5457.26
+211,Shreya Mukherjee,26,Male,Ahmedabad,Middle,Active Family Shopper,5114.03
+212,Vikram Sharma,37,Other,Hyderabad,Lower-Middle,Active Family Shopper,14897.72
+213,Advika Mehta,18,Female,Pune,Upper-Middle,Everyday Essentials Shopper,19103.0
+214,Aryan Mehta,18,Male,Hyderabad,Lower-Middle,Premium Tech Enthusiast,18970.75
+215,Nikhil Iyer,39,Other,Jaipur,Middle,Everyday Essentials Shopper,13719.01
+216,Kabir Khan,30,Male,Hyderabad,Upper-Middle,Avid Reader,4224.11
+217,Advika Khan,39,Female,Kochi,Lower-Middle,Everyday Essentials Shopper,11561.41
+218,Anaya Patel,23,Female,Chennai,Lower-Middle,Active Family Shopper,5844.2
+219,Neeraj Mukherjee,24,Other,Delhi,Low,Everyday Essentials Shopper,6661.24
+220,Vikram Nair,45,Female,Bengaluru,Middle,Everyday Essentials Shopper,12668.12
+221,Ishan Reddy,52,Male,Pune,Upper-Middle,Avid Reader,6951.71
+222,Tarun Mehta,40,Male,Jaipur,Middle,Everyday Essentials Shopper,3701.92
+223,Vikram Das,34,Female,Delhi,Middle,Active Family Shopper,13790.09
+224,Aryan Das,41,Other,Chennai,Middle,Active Family Shopper,6701.72
+225,Shreya Mehta,38,Female,Pune,Middle,Avid Reader,10855.21
+226,Aryan Mehta,25,Other,Pune,Upper-Middle,Avid Reader,924.24
+227,Anaya Das,35,Male,Kolkata,Upper-Middle,Everyday Essentials Shopper,3609.31
+228,Zara Singh,22,Female,Chennai,Lower-Middle,Everyday Essentials Shopper,8187.51
+229,Nikhil Patel,38,Other,Ahmedabad,Upper-Middle,Everyday Essentials Shopper,26680.92
+230,Advika Nair,29,Male,Ahmedabad,Low,Premium Tech Enthusiast,18439.75
+231,Kabir Mehta,40,Female,Mumbai,High,Premium Tech Enthusiast,21028.6
+232,Vikram Reddy,46,Other,Bengaluru,Upper-Middle,Avid Reader,14722.08
+233,Riya Patel,32,Female,Delhi,Middle,Value-Seeking Homemaker,387.91
+234,Neeraj Sharma,20,Female,Bengaluru,Low,Premium Tech Enthusiast,21721.65
+235,Riya Reddy,41,Female,Delhi,Middle,Everyday Essentials Shopper,6605.04
+236,Aarav Reddy,30,Female,Delhi,Low,Active Family Shopper,7644.08
+237,Mira Mukherjee,25,Other,Ahmedabad,Low,Active Family Shopper,5090.93
+238,Saanvi Sharma,27,Female,Bengaluru,Middle,Everyday Essentials Shopper,10894.07
+239,Mira Das,51,Male,Delhi,Low,Everyday Essentials Shopper,16938.01
+240,Shreya Singh,32,Male,Kolkata,Upper-Middle,Premium Tech Enthusiast,27417.7
+241,Ishan Patel,34,Male,Kochi,Middle,Everyday Essentials Shopper,3174.2
+242,Ira Patel,27,Female,Pune,Middle,Active Family Shopper,2789.74
+243,Ishan Das,21,Other,Ahmedabad,Upper-Middle,Everyday Essentials Shopper,7573.29
+244,Aryan Sharma,33,Male,Delhi,Middle,Avid Reader,19832.27
+245,Tarun Iyer,18,Female,Pune,Upper-Middle,Everyday Essentials Shopper,4425.78
+246,Mira Singh,41,Other,Delhi,Lower-Middle,Everyday Essentials Shopper,18082.04
+247,Ira Khan,22,Other,Jaipur,Lower-Middle,Everyday Essentials Shopper,10088.46
+248,Aarav Singh,39,Male,Kochi,Middle,Everyday Essentials Shopper,5196.24
+249,Kavya Das,33,Female,Mumbai,Upper-Middle,Everyday Essentials Shopper,5983.52
+250,Mira Mehta,36,Female,Delhi,Lower-Middle,Avid Reader,3889.92
+251,Ira Sharma,37,Other,Mumbai,High,Everyday Essentials Shopper,14161.75
+252,Saanvi Patel,38,Female,Jaipur,Middle,Everyday Essentials Shopper,7039.35
+253,Anaya Patel,35,Female,Delhi,Low,Everyday Essentials Shopper,3070.27
+254,Aryan Nair,37,Female,Hyderabad,Low,Everyday Essentials Shopper,12560.87
+255,Advika Das,28,Other,Chennai,Middle,Everyday Essentials Shopper,7152.2
+256,Rohan Das,35,Female,Kolkata,Low,Active Family Shopper,7820.45
+257,Anaya Mukherjee,46,Other,Bengaluru,Lower-Middle,Everyday Essentials Shopper,15234.05
+258,Riya Sharma,37,Other,Hyderabad,High,Everyday Essentials Shopper,5699.02
+259,Ishan Mukherjee,21,Female,Kolkata,Middle,Everyday Essentials Shopper,6703.9
+260,Aryan Singh,39,Other,Kolkata,Middle,Everyday Essentials Shopper,10691.7
+261,Mira Nair,25,Male,Delhi,Upper-Middle,Premium Tech Enthusiast,27695.95
+262,Diya Mehta,18,Other,Jaipur,Low,Avid Reader,9947.77
+263,Kabir Sharma,22,Male,Bengaluru,Middle,Avid Reader,8866.92
+264,Kabir Mehta,25,Female,Kochi,Middle,Everyday Essentials Shopper,10396.25
+265,Neeraj Patel,38,Female,Bengaluru,Middle,Everyday Essentials Shopper,10932.5
+266,Neeraj Sharma,29,Male,Pune,Upper-Middle,Avid Reader,15436.67
+267,Neeraj Mukherjee,32,Male,Chennai,Middle,Avid Reader,1057.79
+268,Nikhil Sharma,26,Female,Ahmedabad,Middle,Avid Reader,4284.91
+269,Advika Mehta,36,Other,Bengaluru,Lower-Middle,Everyday Essentials Shopper,5533.55
+270,Neeraj Sharma,29,Other,Delhi,Lower-Middle,Everyday Essentials Shopper,9005.66
+271,Rohan Nair,18,Male,Mumbai,Lower-Middle,Premium Tech Enthusiast,26420.53
+272,Zara Iyer,23,Female,Bengaluru,Lower-Middle,Everyday Essentials Shopper,14141.41
+273,Advika Mukherjee,39,Other,Kolkata,Lower-Middle,Everyday Essentials Shopper,12414.17
+274,Mira Das,40,Other,Pune,Lower-Middle,Everyday Essentials Shopper,3330.52
+275,Aryan Khan,35,Female,Delhi,Middle,Active Family Shopper,13569.03
+276,Advika Patel,27,Male,Kochi,High,Everyday Essentials Shopper,7398.94
+277,Tarun Sharma,32,Female,Chennai,Upper-Middle,Value-Seeking Homemaker,1659.02
+278,Riya Iyer,36,Male,Kochi,Middle,Active Family Shopper,12003.13
+279,Shreya Reddy,38,Female,Jaipur,Upper-Middle,Active Family Shopper,14682.09
+280,Ira Reddy,30,Female,Pune,Middle,Avid Reader,8468.87
+281,Zara Reddy,31,Other,Kochi,Upper-Middle,Everyday Essentials Shopper,5350.2
+282,Mira Patel,36,Male,Kolkata,Low,Everyday Essentials Shopper,9755.73
+283,Anaya Iyer,32,Other,Mumbai,High,Premium Tech Enthusiast,23773.73
+284,Aarav Das,24,Other,Chennai,Low,Everyday Essentials Shopper,10322.45
+285,Rohan Reddy,31,Female,Ahmedabad,High,Everyday Essentials Shopper,9726.98
+286,Ishan Singh,34,Male,Mumbai,Upper-Middle,Everyday Essentials Shopper,7253.27
+287,Rohan Das,31,Other,Pune,Middle,Everyday Essentials Shopper,4155.84
+288,Aryan Khan,31,Male,Kochi,Low,Active Family Shopper,2619.42
+289,Tarun Sharma,21,Other,Jaipur,Low,Everyday Essentials Shopper,6847.99
+290,Ishan Reddy,35,Female,Chennai,Upper-Middle,Everyday Essentials Shopper,12343.38
+291,Tarun Iyer,39,Female,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,4684.17
+292,Aryan Reddy,36,Male,Jaipur,Low,Everyday Essentials Shopper,4463.66
+293,Diya Patel,33,Female,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,4886.07
+294,Diya Mukherjee,26,Female,Hyderabad,Middle,Everyday Essentials Shopper,4708.37
+295,Yash Singh,37,Male,Delhi,Lower-Middle,Everyday Essentials Shopper,4389.89
+296,Riya Khan,24,Male,Hyderabad,Upper-Middle,Active Family Shopper,7112.52
+297,Saanvi Patel,33,Male,Hyderabad,High,Everyday Essentials Shopper,9316.45
+298,Tarun Mukherjee,25,Male,Chennai,Lower-Middle,Everyday Essentials Shopper,9901.6
+299,Kabir Nair,44,Female,Ahmedabad,Middle,Everyday Essentials Shopper,6410.06
+300,Anaya Reddy,45,Male,Ahmedabad,Low,Everyday Essentials Shopper,10137.25
+301,Ishan Sharma,40,Male,Mumbai,Upper-Middle,Everyday Essentials Shopper,4226.99
+302,Mira Patel,33,Male,Kolkata,Lower-Middle,Everyday Essentials Shopper,8488.75
+303,Aryan Khan,18,Other,Chennai,Upper-Middle,Everyday Essentials Shopper,14326.91
+304,Aryan Nair,29,Male,Hyderabad,Upper-Middle,Everyday Essentials Shopper,3011.56
+305,Yash Patel,29,Male,Pune,Low,Everyday Essentials Shopper,19594.7
+306,Yash Nair,29,Male,Jaipur,Middle,Premium Tech Enthusiast,15650.92
+307,Tarun Mehta,30,Male,Kolkata,Middle,Everyday Essentials Shopper,6121.66
+308,Kabir Iyer,32,Male,Bengaluru,Lower-Middle,Everyday Essentials Shopper,3151.83
+309,Yash Patel,26,Male,Jaipur,Middle,Active Family Shopper,10834.2
+310,Mira Singh,22,Female,Kolkata,Upper-Middle,Premium Tech Enthusiast,22059.05
+311,Zara Nair,43,Male,Chennai,Lower-Middle,Value-Seeking Homemaker,1337.25
+312,Vikram Reddy,34,Other,Kochi,Lower-Middle,Active Family Shopper,13357.06
+313,Anaya Nair,37,Female,Pune,Middle,Everyday Essentials Shopper,15985.63
+314,Zara Iyer,24,Other,Kochi,Lower-Middle,Everyday Essentials Shopper,2731.5
+315,Neeraj Patel,45,Male,Pune,Middle,Everyday Essentials Shopper,9421.29
+316,Aarav Singh,36,Male,Ahmedabad,Middle,Everyday Essentials Shopper,6205.96
+317,Nikhil Reddy,45,Male,Delhi,Lower-Middle,Everyday Essentials Shopper,7089.39
+318,Mira Singh,29,Other,Mumbai,Upper-Middle,Active Family Shopper,4288.79
+319,Mira Khan,41,Female,Pune,Upper-Middle,Avid Reader,10516.13
+320,Kabir Patel,36,Male,Jaipur,Lower-Middle,Everyday Essentials Shopper,14387.85
+321,Shreya Khan,28,Male,Pune,Upper-Middle,Everyday Essentials Shopper,14119.7
+322,Nikhil Patel,33,Other,Hyderabad,Upper-Middle,Active Family Shopper,9637.18
+323,Zara Mukherjee,30,Female,Bengaluru,Middle,Everyday Essentials Shopper,5518.1
+324,Aryan Nair,26,Male,Jaipur,Lower-Middle,Everyday Essentials Shopper,9767.82
+325,Rohan Mehta,25,Male,Pune,Upper-Middle,Everyday Essentials Shopper,14671.84
+326,Kavya Patel,33,Female,Bengaluru,Upper-Middle,Premium Tech Enthusiast,20879.96
+327,Saanvi Nair,29,Male,Bengaluru,Middle,Everyday Essentials Shopper,7256.96
+328,Ishan Sharma,45,Other,Pune,High,Active Family Shopper,6943.25
+329,Shreya Das,29,Other,Delhi,Lower-Middle,Everyday Essentials Shopper,4903.08
+330,Saanvi Patel,35,Male,Kolkata,Upper-Middle,Active Family Shopper,1519.33
+331,Zara Iyer,30,Male,Kochi,Middle,Active Family Shopper,13975.68
+332,Ira Iyer,26,Male,Jaipur,Upper-Middle,Premium Tech Enthusiast,20092.97
+333,Tarun Singh,38,Other,Chennai,Low,Everyday Essentials Shopper,12247.67
+334,Aarav Khan,36,Female,Jaipur,Low,Everyday Essentials Shopper,12309.78
+335,Ira Iyer,41,Other,Hyderabad,Middle,Everyday Essentials Shopper,6297.04
+336,Diya Mehta,29,Male,Pune,Middle,Avid Reader,6140.35
+337,Mira Iyer,31,Female,Bengaluru,Middle,Active Family Shopper,9525.63
+338,Aryan Iyer,47,Female,Mumbai,Lower-Middle,Active Family Shopper,4705.54
+339,Mira Sharma,21,Female,Chennai,Upper-Middle,Active Family Shopper,12276.42
+340,Aarav Nair,38,Female,Ahmedabad,Middle,Everyday Essentials Shopper,15118.26
+341,Kabir Das,39,Female,Kolkata,Lower-Middle,Value-Seeking Homemaker,1873.07
+342,Tarun Sharma,18,Female,Jaipur,Middle,Avid Reader,3960.67
+343,Mira Patel,39,Female,Delhi,Upper-Middle,Everyday Essentials Shopper,6796.39
+344,Advika Singh,37,Male,Pune,Lower-Middle,Everyday Essentials Shopper,13795.99
+345,Diya Sharma,36,Female,Bengaluru,Upper-Middle,Everyday Essentials Shopper,6174.78
+346,Kabir Sharma,30,Other,Delhi,Lower-Middle,Everyday Essentials Shopper,5713.56
+347,Ira Mehta,29,Other,Mumbai,Middle,Active Family Shopper,12851.74
+348,Kabir Khan,44,Female,Bengaluru,Low,Premium Tech Enthusiast,11781.97
+349,Saanvi Reddy,22,Male,Kolkata,Middle,Everyday Essentials Shopper,6581.17
+350,Anaya Singh,33,Other,Chennai,Lower-Middle,Everyday Essentials Shopper,9953.24
+351,Diya Nair,40,Female,Jaipur,Middle,Everyday Essentials Shopper,8797.72
+352,Zara Patel,18,Male,Pune,Low,Active Family Shopper,7351.48
+353,Aryan Singh,30,Other,Jaipur,Middle,Premium Tech Enthusiast,26290.44
+354,Diya Nair,44,Male,Bengaluru,Middle,Everyday Essentials Shopper,4980.32
+355,Aryan Mehta,28,Male,Chennai,Upper-Middle,Active Family Shopper,6053.64
+356,Zara Mehta,20,Other,Chennai,Low,Avid Reader,2895.44
+357,Anaya Das,21,Male,Pune,Upper-Middle,Everyday Essentials Shopper,23016.81
+358,Shreya Patel,31,Female,Mumbai,Lower-Middle,Active Family Shopper,4127.02
+359,Yash Singh,22,Male,Chennai,Middle,Avid Reader,14821.02
+360,Ishan Sharma,42,Male,Pune,Upper-Middle,Premium Tech Enthusiast,17507.32
+361,Vikram Khan,39,Male,Kochi,Low,Avid Reader,7092.25
+362,Tarun Mukherjee,36,Female,Kochi,Middle,Everyday Essentials Shopper,3677.71
+363,Zara Khan,42,Male,Ahmedabad,Lower-Middle,Active Family Shopper,10193.11
+364,Tarun Nair,29,Other,Jaipur,Upper-Middle,Everyday Essentials Shopper,9443.88
+365,Nikhil Khan,27,Male,Delhi,Upper-Middle,Premium Tech Enthusiast,18614.57
+366,Yash Patel,28,Male,Hyderabad,Upper-Middle,Premium Tech Enthusiast,16137.03
+367,Ishan Nair,38,Female,Delhi,High,Premium Tech Enthusiast,14469.01
+368,Vikram Reddy,48,Other,Bengaluru,Upper-Middle,Everyday Essentials Shopper,3392.37
+369,Neeraj Iyer,18,Other,Delhi,Low,Active Family Shopper,15748.5
+370,Anaya Das,31,Other,Pune,Upper-Middle,Everyday Essentials Shopper,2849.81
+371,Rohan Mehta,34,Male,Jaipur,Middle,Avid Reader,3740.44
+372,Vikram Sharma,34,Female,Bengaluru,Low,Active Family Shopper,5070.67
+373,Nikhil Khan,41,Male,Delhi,Middle,Everyday Essentials Shopper,10760.35
+374,Diya Singh,29,Other,Pune,Upper-Middle,Everyday Essentials Shopper,3394.56
+375,Neeraj Das,35,Other,Ahmedabad,Middle,Everyday Essentials Shopper,12516.17
+376,Zara Nair,29,Male,Chennai,Middle,Active Family Shopper,6952.36
+377,Ira Khan,26,Other,Kolkata,Low,Avid Reader,4336.57
+378,Saanvi Reddy,39,Male,Ahmedabad,Upper-Middle,Premium Tech Enthusiast,16729.04
+379,Shreya Nair,26,Female,Chennai,Lower-Middle,Everyday Essentials Shopper,11724.36
+380,Zara Sharma,29,Male,Bengaluru,Lower-Middle,Everyday Essentials Shopper,6602.76
+381,Yash Iyer,24,Female,Kolkata,Middle,Everyday Essentials Shopper,1507.88
+382,Aryan Reddy,42,Female,Hyderabad,Upper-Middle,Everyday Essentials Shopper,15492.7
+383,Vikram Mehta,18,Other,Pune,Upper-Middle,Avid Reader,6922.57
+384,Rohan Patel,30,Male,Chennai,Middle,Active Family Shopper,14604.45
+385,Tarun Patel,37,Other,Jaipur,Low,Everyday Essentials Shopper,3741.88
+386,Kavya Reddy,31,Male,Hyderabad,Low,Active Family Shopper,9772.78
+387,Advika Iyer,53,Other,Hyderabad,Lower-Middle,Budget Fashion Hunter,650.4
+388,Yash Mukherjee,25,Female,Delhi,Middle,Value-Seeking Homemaker,1243.9
+389,Mira Iyer,33,Female,Jaipur,Middle,Everyday Essentials Shopper,11996.78
+390,Zara Khan,41,Other,Pune,Lower-Middle,Premium Tech Enthusiast,14297.92
+391,Neeraj Sharma,30,Female,Mumbai,Lower-Middle,Premium Tech Enthusiast,18710.08
+392,Kabir Khan,32,Male,Hyderabad,Middle,Premium Tech Enthusiast,13542.94
+393,Kavya Singh,26,Other,Kolkata,Middle,Everyday Essentials Shopper,9305.42
+394,Aarav Mehta,28,Male,Bengaluru,Middle,Everyday Essentials Shopper,2657.5
+395,Aarav Reddy,25,Female,Jaipur,Upper-Middle,Active Family Shopper,8549.88
+396,Riya Singh,36,Female,Kolkata,Upper-Middle,Everyday Essentials Shopper,9632.75
+397,Yash Singh,32,Male,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,9661.43
+398,Rohan Khan,35,Female,Jaipur,Low,Premium Tech Enthusiast,10074.51
+399,Rohan Iyer,34,Other,Jaipur,Middle,Active Family Shopper,17486.83
+400,Riya Sharma,25,Female,Delhi,Lower-Middle,Active Family Shopper,4239.29
+401,Neeraj Iyer,23,Female,Chennai,Middle,Premium Tech Enthusiast,10666.02
+402,Riya Reddy,19,Male,Kochi,Upper-Middle,Everyday Essentials Shopper,8755.08
+403,Advika Khan,28,Female,Pune,Middle,Active Family Shopper,24300.2
+404,Aarav Mehta,33,Female,Chennai,Upper-Middle,Premium Tech Enthusiast,16252.36
+405,Tarun Das,46,Other,Mumbai,Middle,Active Family Shopper,18566.51
+406,Nikhil Reddy,29,Female,Hyderabad,Middle,Everyday Essentials Shopper,3662.33
+407,Zara Iyer,43,Other,Chennai,Upper-Middle,Everyday Essentials Shopper,9895.42
+408,Anaya Patel,24,Female,Delhi,Middle,Active Family Shopper,3227.38
+409,Neeraj Mukherjee,39,Male,Pune,Middle,Premium Tech Enthusiast,28253.9
+410,Mira Iyer,24,Male,Chennai,Middle,Everyday Essentials Shopper,5224.13
+411,Saanvi Iyer,18,Female,Jaipur,Lower-Middle,Avid Reader,1085.5
+412,Diya Mehta,41,Male,Jaipur,Middle,Active Family Shopper,11000.91
+413,Ira Sharma,43,Female,Hyderabad,Middle,Everyday Essentials Shopper,9143.62
+414,Tarun Mukherjee,33,Female,Kolkata,Low,Premium Tech Enthusiast,10711.08
+415,Ishan Patel,24,Male,Pune,Middle,Everyday Essentials Shopper,5744.29
+416,Nikhil Mehta,34,Male,Pune,Upper-Middle,Everyday Essentials Shopper,7801.23
+417,Kabir Sharma,26,Female,Pune,Middle,Everyday Essentials Shopper,3550.64
+418,Kabir Iyer,26,Other,Mumbai,Low,Everyday Essentials Shopper,14835.1
+419,Neeraj Reddy,27,Male,Jaipur,Upper-Middle,Everyday Essentials Shopper,7323.27
+420,Zara Sharma,39,Male,Jaipur,Middle,Premium Tech Enthusiast,16137.38
+421,Vikram Das,35,Female,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,11590.99
+422,Advika Mukherjee,27,Male,Pune,High,Everyday Essentials Shopper,4468.92
+423,Saanvi Mukherjee,43,Male,Mumbai,Middle,Premium Tech Enthusiast,17982.11
+424,Mira Reddy,24,Other,Pune,Lower-Middle,Everyday Essentials Shopper,11473.16
+425,Diya Das,18,Other,Jaipur,Lower-Middle,Premium Tech Enthusiast,18713.05
+426,Aryan Nair,37,Female,Chennai,Middle,Avid Reader,2449.75
+427,Rohan Khan,25,Other,Pune,Middle,Everyday Essentials Shopper,11042.27
+428,Ishan Iyer,36,Female,Pune,Upper-Middle,Premium Tech Enthusiast,18046.22
+429,Kabir Das,30,Male,Hyderabad,Lower-Middle,Everyday Essentials Shopper,5735.88
+430,Ishan Reddy,42,Other,Mumbai,Middle,Avid Reader,7933.54
+431,Kabir Sharma,46,Female,Mumbai,Lower-Middle,Avid Reader,1234.42
+432,Neeraj Mukherjee,45,Other,Mumbai,Middle,Everyday Essentials Shopper,14253.39
+433,Advika Sharma,26,Other,Mumbai,Low,Everyday Essentials Shopper,6494.82
+434,Diya Das,47,Female,Kolkata,Low,Premium Tech Enthusiast,18316.45
+435,Neeraj Mehta,29,Other,Bengaluru,Lower-Middle,Premium Tech Enthusiast,18712.82
+436,Aarav Singh,31,Female,Delhi,Middle,Everyday Essentials Shopper,9907.03
+437,Neeraj Khan,29,Other,Bengaluru,Middle,Avid Reader,25750.7
+438,Diya Mukherjee,24,Other,Jaipur,Low,Everyday Essentials Shopper,16972.66
+439,Diya Sharma,30,Female,Hyderabad,Middle,Active Family Shopper,13184.3
+440,Neeraj Mukherjee,47,Male,Pune,Middle,Everyday Essentials Shopper,4204.38
+441,Riya Patel,33,Male,Kochi,Middle,Premium Tech Enthusiast,10050.48
+442,Kavya Mehta,30,Female,Hyderabad,Low,Everyday Essentials Shopper,9471.04
+443,Aryan Sharma,22,Other,Ahmedabad,Low,Everyday Essentials Shopper,8429.34
+444,Aryan Mukherjee,33,Male,Delhi,Upper-Middle,Everyday Essentials Shopper,7254.59
+445,Mira Mehta,26,Female,Chennai,Middle,Premium Tech Enthusiast,16558.38
+446,Diya Patel,35,Male,Chennai,Lower-Middle,Everyday Essentials Shopper,5586.19
+447,Saanvi Das,33,Other,Delhi,Low,Active Family Shopper,5649.87
+448,Advika Nair,38,Male,Bengaluru,Lower-Middle,Everyday Essentials Shopper,14591.45
+449,Yash Khan,40,Female,Delhi,Lower-Middle,Premium Tech Enthusiast,31378.17
+450,Saanvi Patel,38,Male,Kolkata,Middle,Everyday Essentials Shopper,15981.22
+451,Yash Singh,38,Female,Ahmedabad,Upper-Middle,Everyday Essentials Shopper,5858.48
+452,Kabir Sharma,39,Male,Mumbai,High,Everyday Essentials Shopper,5235.01
+453,Kabir Sharma,37,Female,Jaipur,Middle,Premium Tech Enthusiast,19073.77
+454,Nikhil Mehta,31,Male,Jaipur,Lower-Middle,Everyday Essentials Shopper,12506.84
+455,Shreya Khan,41,Male,Bengaluru,Middle,Active Family Shopper,5463.18
+456,Zara Sharma,34,Female,Ahmedabad,Low,Everyday Essentials Shopper,7393.84
+457,Neeraj Iyer,41,Male,Kochi,Upper-Middle,Everyday Essentials Shopper,11614.43
+458,Nikhil Khan,35,Male,Pune,Middle,Active Family Shopper,4262.06
+459,Ira Sharma,46,Female,Hyderabad,Middle,Avid Reader,498.13
+460,Tarun Patel,32,Other,Jaipur,Low,Active Family Shopper,5859.99
+461,Kabir Mukherjee,22,Female,Ahmedabad,Upper-Middle,Premium Tech Enthusiast,20997.74
+462,Aryan Mehta,22,Female,Hyderabad,Lower-Middle,Everyday Essentials Shopper,6028.9
+463,Neeraj Nair,41,Other,Hyderabad,Middle,Active Family Shopper,8537.25
+464,Tarun Das,25,Male,Delhi,Middle,Active Family Shopper,7421.84
+465,Nikhil Mehta,37,Male,Ahmedabad,Middle,Everyday Essentials Shopper,6086.87
+466,Diya Mehta,28,Other,Mumbai,Low,Avid Reader,1315.15
+467,Vikram Nair,46,Other,Kochi,Low,Avid Reader,4069.26
+468,Aryan Khan,36,Other,Chennai,Upper-Middle,Everyday Essentials Shopper,6395.94
+469,Anaya Reddy,31,Other,Ahmedabad,High,Everyday Essentials Shopper,7356.23
+470,Shreya Nair,31,Male,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,3890.49
+471,Ira Khan,32,Female,Pune,Middle,Active Family Shopper,4836.73
+472,Diya Sharma,32,Other,Hyderabad,Low,Active Family Shopper,3337.51
+473,Shreya Singh,40,Other,Kochi,Lower-Middle,Everyday Essentials Shopper,6289.21
+474,Diya Nair,32,Male,Ahmedabad,Low,Everyday Essentials Shopper,7456.2
+475,Vikram Sharma,30,Female,Jaipur,Lower-Middle,Premium Tech Enthusiast,11356.69
+476,Diya Das,35,Male,Ahmedabad,Upper-Middle,Active Family Shopper,16586.14
+477,Kavya Iyer,36,Male,Kolkata,Low,Premium Tech Enthusiast,13065.05
+478,Nikhil Sharma,30,Female,Ahmedabad,Middle,Active Family Shopper,2285.02
+479,Rohan Patel,28,Female,Mumbai,Middle,Everyday Essentials Shopper,3106.96
+480,Advika Mukherjee,32,Female,Jaipur,Middle,Everyday Essentials Shopper,13520.76
+481,Rohan Patel,31,Other,Jaipur,Lower-Middle,Premium Tech Enthusiast,23522.12
+482,Ishan Sharma,22,Female,Jaipur,Middle,Everyday Essentials Shopper,9137.36
+483,Saanvi Mukherjee,36,Female,Kolkata,High,Everyday Essentials Shopper,9802.46
+484,Mira Singh,40,Female,Pune,High,Active Family Shopper,7782.69
+485,Yash Patel,25,Male,Kolkata,Middle,Avid Reader,4782.51
+486,Rohan Singh,32,Other,Kochi,Upper-Middle,Active Family Shopper,10400.58
+487,Anaya Reddy,33,Male,Hyderabad,Middle,Active Family Shopper,17071.35
+488,Riya Iyer,26,Other,Bengaluru,High,Everyday Essentials Shopper,5175.25
+489,Kabir Mukherjee,30,Other,Pune,Middle,Everyday Essentials Shopper,8242.58
+490,Shreya Mukherjee,29,Female,Jaipur,Middle,Everyday Essentials Shopper,14514.58
+491,Vikram Mukherjee,22,Female,Kolkata,Upper-Middle,Premium Tech Enthusiast,14975.21
+492,Rohan Sharma,53,Male,Kolkata,Low,Everyday Essentials Shopper,8401.37
+493,Advika Reddy,31,Female,Bengaluru,High,Active Family Shopper,7335.61
+494,Neeraj Patel,30,Male,Chennai,Lower-Middle,Everyday Essentials Shopper,4801.54
+495,Anaya Nair,38,Female,Ahmedabad,Low,Everyday Essentials Shopper,6681.53
+496,Anaya Reddy,36,Other,Kochi,Lower-Middle,Active Family Shopper,21576.14
+497,Rohan Singh,27,Other,Mumbai,Upper-Middle,Premium Tech Enthusiast,10610.78
+498,Tarun Das,18,Other,Pune,High,Everyday Essentials Shopper,20107.7
+499,Advika Nair,31,Other,Chennai,Lower-Middle,Premium Tech Enthusiast,17447.67
+500,Yash Reddy,40,Other,Pune,Upper-Middle,Premium Tech Enthusiast,15457.63
+501,Anaya Khan,48,Male,Hyderabad,Lower-Middle,Premium Tech Enthusiast,17886.54
+502,Kabir Sharma,37,Male,Bengaluru,Middle,Premium Tech Enthusiast,18313.52
+503,Diya Das,45,Male,Kolkata,Lower-Middle,Avid Reader,10312.92
+504,Neeraj Patel,37,Male,Jaipur,Upper-Middle,Premium Tech Enthusiast,37762.82
+505,Aarav Iyer,33,Female,Bengaluru,Low,Premium Tech Enthusiast,13343.43
+506,Saanvi Khan,35,Male,Jaipur,Upper-Middle,Active Family Shopper,9583.98
+507,Riya Mehta,18,Other,Kochi,Lower-Middle,Active Family Shopper,4377.08
+508,Saanvi Mukherjee,41,Male,Bengaluru,Middle,Everyday Essentials Shopper,17542.31
+509,Rohan Patel,43,Female,Kochi,Middle,Everyday Essentials Shopper,14819.91
+510,Aryan Iyer,32,Male,Hyderabad,Middle,Everyday Essentials Shopper,7976.73
+511,Saanvi Iyer,32,Female,Hyderabad,High,Everyday Essentials Shopper,11631.71
+512,Ira Mukherjee,32,Female,Kochi,Upper-Middle,Active Family Shopper,6662.47
+513,Aarav Sharma,20,Other,Pune,Middle,Everyday Essentials Shopper,15349.42
+514,Ira Khan,25,Male,Mumbai,Middle,Everyday Essentials Shopper,11682.52
+515,Saanvi Das,39,Male,Kolkata,Lower-Middle,Everyday Essentials Shopper,6730.05
+516,Riya Nair,21,Other,Pune,Middle,Avid Reader,6364.89
+517,Rohan Mehta,18,Female,Mumbai,Lower-Middle,Avid Reader,15079.33
+518,Kavya Iyer,39,Other,Delhi,Upper-Middle,Premium Tech Enthusiast,17435.27
+519,Kabir Mukherjee,38,Other,Mumbai,Middle,Active Family Shopper,8375.96
+520,Kavya Reddy,29,Other,Kolkata,Upper-Middle,Everyday Essentials Shopper,11040.1
+521,Kavya Mukherjee,34,Other,Kolkata,Middle,Avid Reader,5081.14
+522,Aryan Patel,41,Male,Ahmedabad,Middle,Everyday Essentials Shopper,7682.89
+523,Advika Sharma,32,Male,Mumbai,Lower-Middle,Everyday Essentials Shopper,5689.15
+524,Neeraj Mukherjee,28,Male,Jaipur,Upper-Middle,Everyday Essentials Shopper,7397.24
+525,Neeraj Das,33,Female,Ahmedabad,Middle,Active Family Shopper,8306.27
+526,Vikram Iyer,40,Male,Kolkata,Middle,Active Family Shopper,7608.24
+527,Anaya Nair,23,Other,Jaipur,Low,Active Family Shopper,12222.42
+528,Nikhil Nair,25,Other,Delhi,Lower-Middle,Active Family Shopper,10331.96
+529,Rohan Sharma,30,Female,Chennai,Middle,Active Family Shopper,3103.24
+530,Riya Mehta,35,Female,Kolkata,Upper-Middle,Everyday Essentials Shopper,6114.45
+531,Aarav Mehta,37,Male,Kochi,Lower-Middle,Everyday Essentials Shopper,5674.94
+532,Tarun Mukherjee,21,Female,Bengaluru,Lower-Middle,Active Family Shopper,4347.61
+533,Shreya Nair,34,Other,Kochi,Low,Active Family Shopper,952.61
+534,Advika Nair,37,Other,Jaipur,Lower-Middle,Active Family Shopper,13791.76
+535,Anaya Sharma,43,Female,Hyderabad,Middle,Avid Reader,1379.4
+536,Shreya Reddy,22,Female,Kochi,Low,Everyday Essentials Shopper,18460.16
+537,Kabir Reddy,31,Other,Chennai,Lower-Middle,Premium Tech Enthusiast,11264.59
+538,Kabir Khan,39,Male,Kochi,Middle,Active Family Shopper,2521.1
+539,Anaya Sharma,37,Female,Delhi,Lower-Middle,Everyday Essentials Shopper,2305.36
+540,Kavya Khan,34,Female,Pune,Lower-Middle,Everyday Essentials Shopper,9264.85
+541,Mira Sharma,34,Female,Jaipur,Low,Everyday Essentials Shopper,4281.54
+542,Kavya Iyer,27,Female,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,11488.94
+543,Riya Khan,28,Male,Jaipur,Middle,Everyday Essentials Shopper,4636.08
+544,Saanvi Das,36,Male,Mumbai,Lower-Middle,Premium Tech Enthusiast,21029.33
+545,Mira Das,39,Female,Pune,Low,Premium Tech Enthusiast,14542.39
+546,Saanvi Mehta,24,Female,Ahmedabad,Lower-Middle,Active Family Shopper,4180.8
+547,Riya Mehta,32,Other,Delhi,Lower-Middle,Value-Seeking Homemaker,1486.64
+548,Ira Sharma,44,Female,Bengaluru,Upper-Middle,Avid Reader,11481.33
+549,Kavya Singh,50,Other,Delhi,Middle,Everyday Essentials Shopper,6535.85
+550,Aarav Mukherjee,35,Other,Mumbai,Upper-Middle,Premium Tech Enthusiast,10906.41
+551,Nikhil Das,39,Other,Hyderabad,Upper-Middle,Everyday Essentials Shopper,16984.02
+552,Anaya Singh,28,Other,Kochi,Middle,Premium Tech Enthusiast,15373.8
+553,Ishan Iyer,30,Female,Hyderabad,Upper-Middle,Everyday Essentials Shopper,5834.07
+554,Nikhil Singh,28,Male,Ahmedabad,Middle,Avid Reader,1947.39
+555,Aryan Das,39,Female,Kochi,Low,Everyday Essentials Shopper,6924.05
+556,Mira Khan,27,Other,Bengaluru,Upper-Middle,Active Family Shopper,5543.58
+557,Ishan Mehta,25,Male,Bengaluru,Middle,Everyday Essentials Shopper,5010.9
+558,Nikhil Patel,47,Other,Ahmedabad,Upper-Middle,Everyday Essentials Shopper,6489.56
+559,Advika Reddy,36,Female,Hyderabad,Low,Everyday Essentials Shopper,6950.54
+560,Shreya Reddy,35,Male,Hyderabad,Middle,Active Family Shopper,8745.21
+561,Shreya Das,30,Female,Ahmedabad,Upper-Middle,Everyday Essentials Shopper,18130.06
+562,Advika Iyer,48,Male,Kochi,Middle,Everyday Essentials Shopper,9371.03
+563,Neeraj Singh,23,Other,Kochi,Middle,Active Family Shopper,6535.83
+564,Tarun Das,31,Female,Jaipur,Middle,Everyday Essentials Shopper,5762.88
+565,Aryan Mukherjee,18,Female,Kolkata,High,Avid Reader,2121.06
+566,Mira Mukherjee,35,Female,Pune,Upper-Middle,Avid Reader,19642.7
+567,Shreya Mehta,36,Female,Jaipur,Low,Avid Reader,9117.85
+568,Ishan Mehta,37,Male,Hyderabad,Low,Active Family Shopper,6834.73
+569,Neeraj Reddy,46,Male,Bengaluru,Lower-Middle,Everyday Essentials Shopper,14325.66
+570,Ira Sharma,25,Other,Hyderabad,Middle,Everyday Essentials Shopper,11957.02
+571,Saanvi Sharma,21,Female,Ahmedabad,Middle,Active Family Shopper,7203.6
+572,Nikhil Patel,37,Other,Kolkata,Low,Everyday Essentials Shopper,12322.52
+573,Advika Patel,34,Other,Jaipur,Lower-Middle,Avid Reader,2236.59
+574,Rohan Nair,26,Other,Bengaluru,Low,Everyday Essentials Shopper,6356.68
+575,Neeraj Patel,34,Other,Kolkata,Middle,Premium Tech Enthusiast,14135.89
+576,Nikhil Nair,33,Other,Chennai,Upper-Middle,Premium Tech Enthusiast,13912.34
+577,Kavya Mehta,34,Other,Ahmedabad,Upper-Middle,Everyday Essentials Shopper,6744.05
+578,Kabir Reddy,29,Female,Jaipur,Low,Everyday Essentials Shopper,5281.15
+579,Nikhil Patel,35,Other,Kochi,Lower-Middle,Everyday Essentials Shopper,15515.27
+580,Saanvi Mehta,35,Other,Jaipur,Low,Everyday Essentials Shopper,5685.52
+581,Tarun Das,36,Male,Delhi,Low,Everyday Essentials Shopper,5749.22
+582,Rohan Mukherjee,39,Other,Kolkata,Upper-Middle,Premium Tech Enthusiast,18134.03
+583,Ira Sharma,43,Male,Ahmedabad,Upper-Middle,Premium Tech Enthusiast,18139.1
+584,Ira Nair,35,Other,Kochi,Upper-Middle,Everyday Essentials Shopper,6225.38
+585,Aryan Mehta,31,Other,Bengaluru,Upper-Middle,Premium Tech Enthusiast,11018.8
+586,Anaya Nair,24,Other,Kolkata,Middle,Everyday Essentials Shopper,10728.1
+587,Shreya Nair,36,Other,Kochi,Middle,Everyday Essentials Shopper,22358.79
+588,Zara Das,19,Female,Jaipur,Upper-Middle,Premium Tech Enthusiast,21224.26
+589,Nikhil Sharma,38,Female,Bengaluru,Lower-Middle,Avid Reader,2158.28
+590,Mira Sharma,25,Female,Jaipur,Upper-Middle,Everyday Essentials Shopper,17669.35
+591,Vikram Singh,26,Male,Mumbai,Middle,Everyday Essentials Shopper,4682.75
+592,Aarav Khan,33,Other,Delhi,Middle,Active Family Shopper,7576.8
+593,Tarun Reddy,36,Other,Pune,Middle,Active Family Shopper,20321.49
+594,Diya Patel,21,Female,Jaipur,Lower-Middle,Premium Tech Enthusiast,16045.91
+595,Anaya Das,30,Other,Pune,Middle,Active Family Shopper,5080.23
+596,Tarun Reddy,36,Female,Kochi,Upper-Middle,Active Family Shopper,5391.98
+597,Zara Patel,27,Female,Kochi,Middle,Premium Tech Enthusiast,11984.0
+598,Neeraj Singh,22,Other,Pune,Upper-Middle,Premium Tech Enthusiast,25664.32
+599,Tarun Patel,31,Other,Delhi,Middle,Everyday Essentials Shopper,2592.52
+600,Yash Patel,41,Male,Hyderabad,Middle,Premium Tech Enthusiast,20752.62
+601,Saanvi Mukherjee,39,Other,Mumbai,Lower-Middle,Premium Tech Enthusiast,15136.91
+602,Aarav Sharma,34,Male,Ahmedabad,Upper-Middle,Active Family Shopper,6898.25
+603,Vikram Sharma,33,Male,Chennai,Lower-Middle,Everyday Essentials Shopper,4692.99
+604,Aryan Khan,31,Male,Kolkata,Upper-Middle,Everyday Essentials Shopper,14046.42
+605,Tarun Khan,30,Other,Kochi,Lower-Middle,Everyday Essentials Shopper,5921.01
+606,Ira Nair,39,Male,Ahmedabad,Middle,Premium Tech Enthusiast,12390.66
+607,Kavya Mukherjee,52,Female,Hyderabad,Low,Active Family Shopper,6007.84
+608,Ira Mukherjee,35,Other,Hyderabad,Middle,Active Family Shopper,5196.33
+609,Advika Iyer,39,Male,Mumbai,High,Active Family Shopper,12885.02
+610,Aryan Singh,35,Female,Pune,Middle,Premium Tech Enthusiast,14447.94
+611,Tarun Khan,31,Male,Kochi,Low,Active Family Shopper,18263.04
+612,Aryan Sharma,43,Other,Chennai,Middle,Everyday Essentials Shopper,4738.62
+613,Anaya Khan,29,Female,Pune,High,Everyday Essentials Shopper,7222.22
+614,Neeraj Reddy,22,Other,Hyderabad,Middle,Everyday Essentials Shopper,17777.07
+615,Tarun Khan,28,Male,Chennai,Lower-Middle,Everyday Essentials Shopper,3115.77
+616,Rohan Sharma,41,Other,Delhi,Middle,Premium Tech Enthusiast,17823.2
+617,Saanvi Sharma,30,Other,Chennai,Upper-Middle,Active Family Shopper,5471.89
+618,Nikhil Singh,37,Other,Ahmedabad,High,Everyday Essentials Shopper,29410.36
+619,Nikhil Mehta,36,Male,Pune,High,Active Family Shopper,6761.41
+620,Yash Mehta,29,Other,Mumbai,Middle,Active Family Shopper,10914.16
+621,Neeraj Sharma,18,Female,Hyderabad,Middle,Premium Tech Enthusiast,10174.32
+622,Mira Iyer,40,Female,Pune,Middle,Active Family Shopper,4009.32
+623,Aarav Singh,26,Male,Chennai,Low,Everyday Essentials Shopper,2349.42
+624,Saanvi Sharma,23,Other,Bengaluru,Middle,Active Family Shopper,3357.03
+625,Shreya Reddy,32,Other,Chennai,Lower-Middle,Everyday Essentials Shopper,8253.59
+626,Kavya Mehta,33,Other,Hyderabad,Lower-Middle,Everyday Essentials Shopper,13476.66
+627,Mira Singh,26,Male,Hyderabad,Lower-Middle,Active Family Shopper,11022.46
+628,Mira Khan,22,Female,Bengaluru,Upper-Middle,Premium Tech Enthusiast,18941.47
+629,Diya Sharma,18,Other,Ahmedabad,Middle,Avid Reader,8969.55
+630,Anaya Nair,43,Female,Pune,Middle,Everyday Essentials Shopper,3046.19
+631,Zara Khan,51,Female,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,7159.84
+632,Rohan Singh,25,Female,Hyderabad,Upper-Middle,Premium Tech Enthusiast,16373.33
+633,Ishan Nair,41,Other,Kolkata,Middle,Everyday Essentials Shopper,5603.14
+634,Anaya Nair,42,Other,Pune,Lower-Middle,Premium Tech Enthusiast,28297.4
+635,Kabir Mehta,36,Male,Kochi,Middle,Everyday Essentials Shopper,4309.56
+636,Aarav Nair,24,Other,Hyderabad,Lower-Middle,Everyday Essentials Shopper,7113.75
+637,Diya Iyer,25,Female,Jaipur,Upper-Middle,Avid Reader,13588.3
+638,Kabir Mukherjee,34,Female,Hyderabad,Lower-Middle,Everyday Essentials Shopper,7949.23
+639,Ira Iyer,33,Female,Bengaluru,Middle,Everyday Essentials Shopper,2081.4
+640,Kavya Das,39,Other,Pune,Lower-Middle,Everyday Essentials Shopper,8609.13
+641,Tarun Singh,41,Female,Bengaluru,Middle,Premium Tech Enthusiast,11499.84
+642,Nikhil Reddy,36,Male,Chennai,Upper-Middle,Everyday Essentials Shopper,8376.44
+643,Anaya Das,39,Female,Hyderabad,Low,Avid Reader,10368.59
+644,Ishan Mehta,18,Male,Bengaluru,Middle,Avid Reader,1283.18
+645,Ishan Mukherjee,37,Other,Pune,Upper-Middle,Everyday Essentials Shopper,7841.1
+646,Riya Singh,22,Other,Jaipur,Low,Avid Reader,7376.15
+647,Diya Patel,18,Male,Hyderabad,Upper-Middle,Premium Tech Enthusiast,22017.15
+648,Zara Sharma,26,Female,Pune,Lower-Middle,Everyday Essentials Shopper,2577.01
+649,Shreya Mukherjee,38,Other,Chennai,Lower-Middle,Everyday Essentials Shopper,6210.38
+650,Vikram Sharma,34,Female,Jaipur,Lower-Middle,Everyday Essentials Shopper,9089.04
+651,Nikhil Mukherjee,35,Male,Chennai,Lower-Middle,Active Family Shopper,7845.58
+652,Rohan Mehta,41,Other,Ahmedabad,Upper-Middle,Everyday Essentials Shopper,8861.56
+653,Tarun Khan,37,Female,Ahmedabad,Middle,Everyday Essentials Shopper,10538.97
+654,Ishan Patel,32,Other,Pune,Middle,Active Family Shopper,6179.48
+655,Ira Khan,29,Female,Delhi,Low,Avid Reader,11960.57
+656,Saanvi Reddy,32,Female,Pune,Middle,Premium Tech Enthusiast,20206.74
+657,Neeraj Khan,29,Other,Kolkata,Lower-Middle,Everyday Essentials Shopper,10853.52
+658,Yash Iyer,25,Other,Jaipur,Middle,Avid Reader,11622.04
+659,Yash Das,36,Male,Bengaluru,Upper-Middle,Everyday Essentials Shopper,6165.74
+660,Ishan Reddy,32,Other,Chennai,Upper-Middle,Everyday Essentials Shopper,15410.83
+661,Aryan Reddy,48,Male,Kolkata,Low,Everyday Essentials Shopper,8050.95
+662,Aryan Mehta,21,Other,Mumbai,Low,Everyday Essentials Shopper,6913.31
+663,Tarun Mukherjee,37,Male,Delhi,Lower-Middle,Everyday Essentials Shopper,11684.42
+664,Ishan Sharma,60,Other,Kolkata,Lower-Middle,Everyday Essentials Shopper,5822.75
+665,Mira Singh,25,Female,Bengaluru,Low,Everyday Essentials Shopper,3281.72
+666,Kabir Nair,30,Male,Pune,Upper-Middle,Avid Reader,12343.88
+667,Saanvi Mehta,35,Female,Kochi,Upper-Middle,Premium Tech Enthusiast,17948.82
+668,Anaya Mehta,35,Male,Kochi,Lower-Middle,Avid Reader,12876.56
+669,Ira Mehta,18,Other,Jaipur,Middle,Everyday Essentials Shopper,8744.18
+670,Anaya Singh,28,Female,Ahmedabad,Middle,Everyday Essentials Shopper,2936.56
+671,Aryan Mehta,33,Female,Pune,Middle,Everyday Essentials Shopper,4015.27
+672,Ishan Singh,36,Male,Mumbai,Middle,Everyday Essentials Shopper,7334.49
+673,Ishan Iyer,27,Female,Ahmedabad,Middle,Everyday Essentials Shopper,7455.27
+674,Zara Mehta,36,Female,Mumbai,Upper-Middle,Everyday Essentials Shopper,8240.4
+675,Riya Khan,36,Male,Mumbai,Middle,Premium Tech Enthusiast,19706.9
+676,Kavya Das,18,Other,Kolkata,Lower-Middle,Premium Tech Enthusiast,18966.91
+677,Kabir Das,24,Female,Hyderabad,Lower-Middle,Everyday Essentials Shopper,3156.83
+678,Vikram Reddy,24,Other,Jaipur,Upper-Middle,Everyday Essentials Shopper,14663.6
+679,Neeraj Singh,32,Other,Kochi,Upper-Middle,Avid Reader,1993.6
+680,Vikram Reddy,31,Male,Bengaluru,Low,Everyday Essentials Shopper,3526.69
+681,Diya Mehta,30,Other,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,10380.03
+682,Ira Mehta,29,Male,Pune,Low,Premium Tech Enthusiast,23171.81
+683,Advika Mukherjee,26,Male,Bengaluru,High,Everyday Essentials Shopper,6168.13
+684,Riya Singh,35,Male,Ahmedabad,Middle,Everyday Essentials Shopper,6361.54
+685,Mira Sharma,23,Male,Mumbai,Middle,Active Family Shopper,4302.64
+686,Saanvi Das,36,Female,Ahmedabad,High,Everyday Essentials Shopper,9231.75
+687,Yash Nair,43,Female,Delhi,Upper-Middle,Everyday Essentials Shopper,8241.91
+688,Ishan Nair,31,Female,Kolkata,Low,Everyday Essentials Shopper,7712.17
+689,Zara Patel,24,Male,Chennai,Upper-Middle,Everyday Essentials Shopper,16606.42
+690,Aarav Sharma,22,Other,Hyderabad,Lower-Middle,Premium Tech Enthusiast,14174.95
+691,Yash Reddy,18,Other,Mumbai,Lower-Middle,Everyday Essentials Shopper,5384.49
+692,Diya Mukherjee,44,Other,Hyderabad,Middle,Premium Tech Enthusiast,15603.6
+693,Riya Iyer,29,Male,Mumbai,Middle,Everyday Essentials Shopper,13020.43
+694,Anaya Mukherjee,44,Male,Chennai,Middle,Everyday Essentials Shopper,14496.43
+695,Riya Reddy,28,Female,Mumbai,Upper-Middle,Premium Tech Enthusiast,24041.37
+696,Kavya Sharma,33,Male,Kolkata,Lower-Middle,Active Family Shopper,9031.27
+697,Kabir Singh,31,Other,Delhi,Lower-Middle,Active Family Shopper,11544.87
+698,Mira Nair,30,Male,Jaipur,Upper-Middle,Premium Tech Enthusiast,26635.6
+699,Zara Khan,36,Male,Pune,Upper-Middle,Everyday Essentials Shopper,4727.41
+700,Mira Patel,22,Female,Delhi,Middle,Everyday Essentials Shopper,10563.71
+701,Saanvi Nair,40,Male,Pune,Middle,Everyday Essentials Shopper,12753.61
+702,Anaya Sharma,28,Male,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,9792.34
+703,Anaya Iyer,37,Female,Hyderabad,Low,Premium Tech Enthusiast,11569.32
+704,Tarun Iyer,32,Other,Bengaluru,Lower-Middle,Everyday Essentials Shopper,9119.03
+705,Advika Mehta,39,Other,Ahmedabad,Middle,Avid Reader,14266.79
+706,Anaya Mehta,40,Male,Jaipur,Lower-Middle,Everyday Essentials Shopper,4544.94
+707,Shreya Iyer,37,Other,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,21738.26
+708,Ira Mukherjee,23,Male,Delhi,Middle,Active Family Shopper,6873.14
+709,Yash Singh,31,Female,Kochi,Lower-Middle,Active Family Shopper,7912.19
+710,Aarav Mukherjee,37,Female,Bengaluru,Upper-Middle,Everyday Essentials Shopper,12013.38
+711,Ira Iyer,26,Other,Hyderabad,Lower-Middle,Active Family Shopper,3043.88
+712,Aryan Mukherjee,25,Female,Hyderabad,Middle,Everyday Essentials Shopper,5035.72
+713,Zara Mukherjee,28,Male,Jaipur,Lower-Middle,Everyday Essentials Shopper,15947.09
+714,Vikram Iyer,35,Male,Delhi,Middle,Everyday Essentials Shopper,2669.28
+715,Aryan Nair,38,Male,Bengaluru,Upper-Middle,Everyday Essentials Shopper,8917.24
+716,Kavya Sharma,23,Female,Hyderabad,Low,Active Family Shopper,6446.49
+717,Nikhil Das,38,Other,Ahmedabad,Middle,Active Family Shopper,12795.46
+718,Nikhil Singh,33,Male,Pune,Lower-Middle,Premium Tech Enthusiast,11193.19
+719,Aryan Nair,22,Male,Ahmedabad,Upper-Middle,Value-Seeking Homemaker,1283.41
+720,Aryan Mehta,24,Other,Mumbai,Lower-Middle,Everyday Essentials Shopper,21511.71
+721,Vikram Iyer,18,Other,Mumbai,Upper-Middle,Active Family Shopper,6058.29
+722,Neeraj Mukherjee,32,Male,Delhi,Upper-Middle,Premium Tech Enthusiast,10497.28
+723,Aryan Reddy,33,Other,Delhi,Low,Active Family Shopper,9149.7
+724,Mira Mukherjee,18,Female,Hyderabad,Lower-Middle,Everyday Essentials Shopper,11699.38
+725,Mira Khan,35,Other,Bengaluru,Middle,Everyday Essentials Shopper,7798.44
+726,Anaya Das,48,Other,Delhi,Upper-Middle,Everyday Essentials Shopper,9279.05
+727,Nikhil Iyer,34,Other,Ahmedabad,Middle,Active Family Shopper,19863.33
+728,Vikram Sharma,43,Male,Bengaluru,Middle,Everyday Essentials Shopper,11903.95
+729,Rohan Iyer,25,Other,Bengaluru,Middle,Active Family Shopper,3440.24
+730,Ira Mehta,18,Female,Pune,Middle,Active Family Shopper,2162.11
+731,Saanvi Iyer,31,Female,Kolkata,Upper-Middle,Active Family Shopper,8063.75
+732,Saanvi Khan,31,Male,Jaipur,Middle,Everyday Essentials Shopper,4995.69
+733,Tarun Mukherjee,28,Other,Chennai,Lower-Middle,Value-Seeking Homemaker,1803.36
+734,Yash Mehta,34,Female,Mumbai,Middle,Everyday Essentials Shopper,3656.85
+735,Riya Khan,30,Male,Kochi,Low,Active Family Shopper,12372.86
+736,Riya Nair,24,Female,Hyderabad,Lower-Middle,Everyday Essentials Shopper,7845.34
+737,Saanvi Nair,43,Other,Chennai,Upper-Middle,Active Family Shopper,7142.43
+738,Rohan Mukherjee,44,Other,Jaipur,Lower-Middle,Active Family Shopper,10721.25
+739,Advika Mehta,18,Female,Bengaluru,Low,Active Family Shopper,12879.64
+740,Shreya Khan,31,Male,Hyderabad,Lower-Middle,Avid Reader,3531.88
+741,Riya Sharma,36,Other,Kolkata,Middle,Everyday Essentials Shopper,8121.32
+742,Kavya Sharma,27,Other,Pune,Upper-Middle,Premium Tech Enthusiast,14176.32
+743,Kabir Mehta,37,Other,Jaipur,Upper-Middle,Everyday Essentials Shopper,7754.79
+744,Diya Khan,20,Other,Chennai,Low,Everyday Essentials Shopper,8202.89
+745,Nikhil Das,48,Male,Mumbai,Upper-Middle,Everyday Essentials Shopper,10283.3
+746,Saanvi Iyer,28,Female,Kolkata,Upper-Middle,Everyday Essentials Shopper,20556.89
+747,Diya Reddy,31,Other,Jaipur,Upper-Middle,Everyday Essentials Shopper,25381.03
+748,Tarun Nair,24,Female,Kochi,Low,Everyday Essentials Shopper,9208.52
+749,Anaya Khan,18,Male,Pune,Middle,Avid Reader,807.94
+750,Mira Patel,34,Male,Kolkata,High,Everyday Essentials Shopper,8996.42
+751,Ira Khan,29,Other,Delhi,Lower-Middle,Active Family Shopper,12713.91
+752,Riya Das,24,Male,Bengaluru,Lower-Middle,Active Family Shopper,16632.38
+753,Zara Khan,18,Other,Mumbai,Middle,Everyday Essentials Shopper,18489.36
+754,Neeraj Sharma,23,Female,Kochi,Middle,Everyday Essentials Shopper,11780.43
+755,Ishan Patel,18,Female,Kochi,Lower-Middle,Everyday Essentials Shopper,7975.5
+756,Tarun Khan,26,Male,Kochi,Middle,Everyday Essentials Shopper,7197.34
+757,Rohan Reddy,26,Male,Delhi,Lower-Middle,Everyday Essentials Shopper,5712.94
+758,Vikram Iyer,23,Other,Jaipur,Low,Active Family Shopper,14621.76
+759,Vikram Das,21,Female,Pune,Lower-Middle,Active Family Shopper,13984.5
+760,Shreya Khan,27,Other,Mumbai,Upper-Middle,Premium Tech Enthusiast,22358.11
+761,Kabir Iyer,30,Other,Ahmedabad,Middle,Active Family Shopper,7325.97
+762,Yash Nair,19,Male,Hyderabad,Middle,Everyday Essentials Shopper,3697.09
+763,Ishan Sharma,23,Male,Mumbai,Lower-Middle,Active Family Shopper,8373.97
+764,Ira Patel,18,Female,Mumbai,Lower-Middle,Active Family Shopper,1363.52
+765,Diya Singh,29,Female,Ahmedabad,Low,Everyday Essentials Shopper,13602.01
+766,Kavya Mukherjee,18,Male,Hyderabad,Middle,Active Family Shopper,5942.52
+767,Neeraj Mukherjee,33,Female,Jaipur,Middle,Premium Tech Enthusiast,12979.47
+768,Ishan Nair,33,Female,Jaipur,Upper-Middle,Avid Reader,3075.78
+769,Rohan Nair,30,Female,Bengaluru,Low,Everyday Essentials Shopper,9357.11
+770,Kavya Khan,35,Female,Mumbai,Middle,Active Family Shopper,1939.15
+771,Aarav Sharma,30,Female,Chennai,Middle,Everyday Essentials Shopper,4798.64
+772,Shreya Sharma,27,Male,Chennai,Upper-Middle,Avid Reader,7645.61
+773,Tarun Reddy,22,Female,Kochi,High,Active Family Shopper,7083.88
+774,Diya Iyer,29,Female,Jaipur,Middle,Everyday Essentials Shopper,3927.25
+775,Kabir Reddy,34,Other,Ahmedabad,Middle,Avid Reader,4509.7
+776,Aarav Nair,44,Male,Kochi,Lower-Middle,Avid Reader,4633.61
+777,Zara Das,26,Other,Bengaluru,Low,Everyday Essentials Shopper,7718.38
+778,Shreya Iyer,25,Other,Chennai,Lower-Middle,Active Family Shopper,2768.84
+779,Rohan Singh,26,Male,Chennai,Upper-Middle,Everyday Essentials Shopper,7668.34
+780,Aarav Mukherjee,22,Female,Hyderabad,Lower-Middle,Premium Tech Enthusiast,15949.42
+781,Tarun Patel,39,Male,Kolkata,Middle,Everyday Essentials Shopper,9787.61
+782,Ira Reddy,26,Female,Hyderabad,Middle,Everyday Essentials Shopper,6731.0
+783,Vikram Singh,35,Other,Pune,Middle,Active Family Shopper,4512.72
+784,Ishan Reddy,28,Other,Bengaluru,Middle,Everyday Essentials Shopper,14060.11
+785,Kavya Patel,38,Female,Kochi,Upper-Middle,Everyday Essentials Shopper,19878.15
+786,Vikram Patel,20,Other,Jaipur,Upper-Middle,Everyday Essentials Shopper,9982.12
+787,Saanvi Sharma,39,Other,Kochi,Upper-Middle,Active Family Shopper,10395.78
+788,Diya Patel,40,Female,Bengaluru,Middle,Active Family Shopper,7346.74
+789,Saanvi Das,43,Female,Chennai,Middle,Active Family Shopper,16133.67
+790,Neeraj Patel,29,Male,Delhi,Low,Value-Seeking Homemaker,1613.09
+791,Aarav Khan,34,Other,Chennai,Middle,Premium Tech Enthusiast,16927.45
+792,Ira Reddy,35,Other,Hyderabad,Lower-Middle,Avid Reader,3021.58
+793,Aarav Iyer,39,Male,Ahmedabad,Low,Active Family Shopper,12475.33
+794,Ira Mehta,30,Other,Pune,Lower-Middle,Active Family Shopper,3789.57
+795,Tarun Mehta,26,Female,Bengaluru,Lower-Middle,Everyday Essentials Shopper,4804.9
+796,Mira Nair,18,Female,Mumbai,Upper-Middle,Everyday Essentials Shopper,22854.31
+797,Vikram Reddy,32,Other,Hyderabad,Upper-Middle,Everyday Essentials Shopper,6922.5
+798,Aryan Patel,42,Female,Jaipur,Middle,Everyday Essentials Shopper,8536.4
+799,Saanvi Mehta,35,Male,Kolkata,Middle,Everyday Essentials Shopper,4579.31
+800,Advika Khan,36,Other,Kolkata,Middle,Everyday Essentials Shopper,5498.34
+801,Tarun Khan,39,Other,Jaipur,Middle,Everyday Essentials Shopper,4589.61
+802,Rohan Nair,32,Other,Delhi,Middle,Everyday Essentials Shopper,10107.26
+803,Advika Reddy,24,Other,Kochi,Lower-Middle,Everyday Essentials Shopper,6515.47
+804,Advika Mukherjee,41,Female,Kochi,Upper-Middle,Premium Tech Enthusiast,13903.44
+805,Advika Reddy,32,Female,Ahmedabad,Lower-Middle,Premium Tech Enthusiast,29120.16
+806,Riya Singh,34,Female,Bengaluru,Middle,Avid Reader,9276.72
+807,Ira Nair,32,Other,Kochi,Upper-Middle,Premium Tech Enthusiast,20862.83
+808,Yash Mehta,37,Male,Kochi,Low,Avid Reader,3695.71
+809,Nikhil Mukherjee,36,Male,Kolkata,Middle,Everyday Essentials Shopper,6621.07
+810,Yash Nair,44,Male,Ahmedabad,Middle,Everyday Essentials Shopper,4957.0
+811,Kavya Mehta,18,Male,Chennai,Lower-Middle,Premium Tech Enthusiast,12968.06
+812,Kabir Sharma,49,Male,Delhi,Middle,Avid Reader,7758.75
+813,Shreya Sharma,45,Other,Kolkata,Middle,Everyday Essentials Shopper,10929.66
+814,Rohan Khan,33,Male,Kolkata,Middle,Premium Tech Enthusiast,21442.82
+815,Advika Patel,39,Female,Jaipur,Upper-Middle,Avid Reader,539.84
+816,Ishan Patel,31,Male,Bengaluru,Upper-Middle,Premium Tech Enthusiast,10076.21
+817,Advika Das,33,Female,Chennai,Middle,Everyday Essentials Shopper,8092.46
+818,Yash Singh,25,Other,Bengaluru,Low,Avid Reader,3540.49
+819,Ishan Reddy,37,Male,Jaipur,Upper-Middle,Everyday Essentials Shopper,5384.05
+820,Aarav Mehta,27,Female,Ahmedabad,Middle,Everyday Essentials Shopper,8356.36
+821,Aarav Khan,27,Female,Hyderabad,Lower-Middle,Premium Tech Enthusiast,11761.86
+822,Zara Mehta,26,Female,Ahmedabad,Low,Everyday Essentials Shopper,28997.59
+823,Ira Nair,34,Male,Kochi,Lower-Middle,Everyday Essentials Shopper,7642.13
+824,Anaya Reddy,26,Male,Bengaluru,Low,Everyday Essentials Shopper,4801.61
+825,Shreya Nair,29,Male,Mumbai,Middle,Everyday Essentials Shopper,17368.91
+826,Ira Singh,27,Female,Delhi,Low,Everyday Essentials Shopper,7779.5
+827,Vikram Patel,34,Male,Chennai,Middle,Everyday Essentials Shopper,7991.63
+828,Ira Khan,39,Other,Bengaluru,High,Everyday Essentials Shopper,6173.72
+829,Nikhil Iyer,31,Male,Delhi,Upper-Middle,Premium Tech Enthusiast,19429.61
+830,Saanvi Iyer,47,Female,Delhi,Upper-Middle,Active Family Shopper,5125.36
+831,Anaya Sharma,42,Female,Ahmedabad,Low,Value-Seeking Homemaker,747.54
+832,Neeraj Iyer,24,Other,Kolkata,Middle,Everyday Essentials Shopper,17373.09
+833,Kavya Khan,29,Male,Delhi,Middle,Active Family Shopper,6305.71
+834,Rohan Sharma,36,Female,Jaipur,Upper-Middle,Active Family Shopper,16483.75
+835,Riya Das,41,Other,Pune,Lower-Middle,Everyday Essentials Shopper,12173.3
+836,Nikhil Khan,31,Female,Bengaluru,Middle,Premium Tech Enthusiast,13354.54
+837,Zara Mukherjee,30,Other,Ahmedabad,Middle,Everyday Essentials Shopper,12578.27
+838,Kabir Khan,18,Male,Chennai,High,Everyday Essentials Shopper,10939.7
+839,Aarav Sharma,35,Male,Ahmedabad,Middle,Avid Reader,21005.3
+840,Diya Reddy,29,Other,Kolkata,Middle,Everyday Essentials Shopper,7837.74
+841,Saanvi Iyer,37,Other,Hyderabad,Low,Everyday Essentials Shopper,12632.52
+842,Kavya Singh,27,Female,Delhi,Lower-Middle,Everyday Essentials Shopper,9119.96
+843,Rohan Mukherjee,34,Female,Mumbai,Low,Active Family Shopper,7667.1
+844,Saanvi Iyer,26,Female,Jaipur,Middle,Active Family Shopper,7409.4
+845,Aarav Patel,42,Male,Pune,Upper-Middle,Everyday Essentials Shopper,6745.8
+846,Zara Mehta,30,Male,Bengaluru,Middle,Active Family Shopper,3614.67
+847,Yash Mukherjee,22,Female,Ahmedabad,Upper-Middle,Premium Tech Enthusiast,19171.92
+848,Vikram Nair,30,Other,Chennai,Middle,Avid Reader,2736.54
+849,Saanvi Mukherjee,29,Other,Mumbai,Lower-Middle,Premium Tech Enthusiast,11414.67
+850,Saanvi Iyer,26,Male,Bengaluru,Lower-Middle,Everyday Essentials Shopper,3444.03
+851,Aarav Iyer,34,Female,Kochi,Upper-Middle,Active Family Shopper,8975.39
+852,Nikhil Khan,44,Female,Bengaluru,Middle,Everyday Essentials Shopper,2689.01
+853,Riya Iyer,31,Other,Mumbai,Lower-Middle,Premium Tech Enthusiast,10639.02
+854,Aryan Mehta,31,Male,Pune,Middle,Everyday Essentials Shopper,5034.38
+855,Riya Reddy,18,Other,Chennai,Lower-Middle,Avid Reader,1673.84
+856,Shreya Nair,32,Male,Delhi,Middle,Everyday Essentials Shopper,6159.95
+857,Aarav Mehta,31,Other,Bengaluru,Lower-Middle,Active Family Shopper,20140.78
+858,Zara Mukherjee,18,Female,Pune,Low,Everyday Essentials Shopper,5753.34
+859,Diya Mukherjee,40,Other,Bengaluru,Lower-Middle,Everyday Essentials Shopper,7246.54
+860,Advika Mehta,36,Female,Kochi,Low,Avid Reader,19023.93
+861,Riya Nair,31,Other,Jaipur,Upper-Middle,Active Family Shopper,1510.43
+862,Saanvi Mehta,32,Male,Delhi,Middle,Active Family Shopper,16720.22
+863,Riya Nair,33,Other,Chennai,Middle,Everyday Essentials Shopper,7408.67
+864,Kavya Iyer,31,Male,Hyderabad,Lower-Middle,Everyday Essentials Shopper,2718.8
+865,Anaya Iyer,34,Female,Delhi,Lower-Middle,Everyday Essentials Shopper,6019.23
+866,Kabir Singh,33,Male,Mumbai,High,Everyday Essentials Shopper,8977.73
+867,Anaya Mukherjee,44,Male,Hyderabad,Middle,Everyday Essentials Shopper,6879.85
+868,Anaya Iyer,39,Female,Bengaluru,Upper-Middle,Premium Tech Enthusiast,13601.08
+869,Riya Khan,29,Male,Bengaluru,Low,Everyday Essentials Shopper,9187.08
+870,Ira Iyer,39,Other,Ahmedabad,Low,Everyday Essentials Shopper,11514.51
+871,Aarav Mehta,27,Other,Mumbai,Low,Premium Tech Enthusiast,11412.99
+872,Advika Sharma,24,Female,Kolkata,Lower-Middle,Premium Tech Enthusiast,23751.09
+873,Ira Khan,41,Other,Ahmedabad,Middle,Active Family Shopper,8956.34
+874,Riya Iyer,18,Male,Kochi,Low,Premium Tech Enthusiast,14190.94
+875,Yash Khan,25,Male,Delhi,Upper-Middle,Active Family Shopper,5932.78
+876,Yash Sharma,21,Female,Chennai,Middle,Everyday Essentials Shopper,6409.34
+877,Yash Mehta,25,Male,Hyderabad,Low,Active Family Shopper,15944.59
+878,Ira Singh,38,Female,Kolkata,Lower-Middle,Everyday Essentials Shopper,9462.51
+879,Saanvi Iyer,31,Female,Ahmedabad,Low,Premium Tech Enthusiast,15529.92
+880,Zara Sharma,23,Female,Ahmedabad,Middle,Everyday Essentials Shopper,20016.93
+881,Kabir Singh,30,Female,Jaipur,Middle,Active Family Shopper,3180.86
+882,Rohan Sharma,36,Female,Delhi,Lower-Middle,Active Family Shopper,7139.83
+883,Aryan Singh,34,Other,Ahmedabad,Middle,Everyday Essentials Shopper,6560.4
+884,Vikram Reddy,26,Other,Hyderabad,Middle,Premium Tech Enthusiast,13931.2
+885,Zara Das,43,Male,Pune,Lower-Middle,Premium Tech Enthusiast,20077.6
+886,Nikhil Das,21,Female,Jaipur,Upper-Middle,Everyday Essentials Shopper,11073.61
+887,Anaya Reddy,32,Male,Delhi,Middle,Avid Reader,4113.9
+888,Nikhil Mehta,53,Male,Jaipur,Middle,Avid Reader,3461.38
+889,Saanvi Mukherjee,34,Male,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,5082.04
+890,Tarun Sharma,25,Other,Delhi,Middle,Everyday Essentials Shopper,17354.06
+891,Ira Das,27,Female,Ahmedabad,Middle,Avid Reader,10788.37
+892,Advika Sharma,29,Male,Bengaluru,Upper-Middle,Premium Tech Enthusiast,15958.85
+893,Aarav Patel,18,Other,Bengaluru,Middle,Active Family Shopper,15082.81
+894,Riya Das,26,Other,Jaipur,Middle,Active Family Shopper,9444.99
+895,Kavya Iyer,36,Female,Jaipur,Upper-Middle,Active Family Shopper,6525.98
+896,Riya Das,30,Other,Pune,High,Everyday Essentials Shopper,14091.85
+897,Nikhil Nair,30,Other,Kochi,Middle,Everyday Essentials Shopper,9792.01
+898,Ishan Singh,38,Male,Pune,Upper-Middle,Active Family Shopper,14972.47
+899,Advika Nair,31,Other,Kochi,Upper-Middle,Everyday Essentials Shopper,9393.02
+900,Shreya Sharma,33,Female,Mumbai,Lower-Middle,Premium Tech Enthusiast,10444.69
+901,Nikhil Das,29,Other,Pune,Middle,Premium Tech Enthusiast,13556.25
+902,Tarun Das,30,Female,Kochi,Lower-Middle,Active Family Shopper,5853.43
+903,Kabir Mehta,25,Male,Hyderabad,Middle,Everyday Essentials Shopper,3860.47
+904,Shreya Das,34,Male,Chennai,High,Avid Reader,5228.22
+905,Ishan Patel,33,Male,Delhi,Middle,Premium Tech Enthusiast,13227.53
+906,Ishan Mehta,27,Other,Kolkata,High,Premium Tech Enthusiast,11305.15
+907,Ishan Sharma,27,Male,Kolkata,Upper-Middle,Avid Reader,2902.66
+908,Ira Das,23,Other,Bengaluru,Middle,Everyday Essentials Shopper,5340.78
+909,Vikram Mukherjee,38,Female,Kolkata,Lower-Middle,Active Family Shopper,14061.41
+910,Kabir Das,40,Other,Mumbai,Middle,Active Family Shopper,6341.56
+911,Mira Mukherjee,18,Female,Kolkata,Upper-Middle,Premium Tech Enthusiast,12710.25
+912,Nikhil Iyer,35,Male,Mumbai,Middle,Everyday Essentials Shopper,7774.18
+913,Shreya Sharma,37,Other,Ahmedabad,High,Active Family Shopper,18142.22
+914,Aryan Patel,41,Other,Kochi,High,Premium Tech Enthusiast,14419.48
+915,Neeraj Mehta,25,Other,Delhi,Middle,Avid Reader,1912.7
+916,Ira Sharma,37,Male,Ahmedabad,Middle,Everyday Essentials Shopper,8767.94
+917,Aryan Mukherjee,30,Other,Chennai,Middle,Everyday Essentials Shopper,5252.73
+918,Saanvi Mukherjee,19,Male,Ahmedabad,Middle,Active Family Shopper,7092.66
+919,Zara Khan,33,Other,Pune,Middle,Everyday Essentials Shopper,9782.07
+920,Riya Singh,31,Male,Mumbai,Middle,Everyday Essentials Shopper,18249.82
+921,Ira Singh,22,Other,Jaipur,Lower-Middle,Everyday Essentials Shopper,6733.15
+922,Zara Khan,38,Male,Jaipur,Low,Active Family Shopper,5907.64
+923,Riya Khan,36,Male,Chennai,Middle,Everyday Essentials Shopper,3661.74
+924,Ishan Mukherjee,38,Male,Chennai,Lower-Middle,Everyday Essentials Shopper,6580.01
+925,Ira Singh,28,Female,Chennai,Low,Active Family Shopper,7011.99
+926,Diya Khan,34,Male,Jaipur,Middle,Everyday Essentials Shopper,12977.57
+927,Yash Iyer,45,Male,Chennai,Upper-Middle,Premium Tech Enthusiast,31076.39
+928,Mira Mehta,35,Male,Kochi,Upper-Middle,Everyday Essentials Shopper,8001.52
+929,Saanvi Sharma,40,Male,Jaipur,Upper-Middle,Premium Tech Enthusiast,13120.05
+930,Ishan Mehta,20,Female,Kolkata,Lower-Middle,Everyday Essentials Shopper,7218.81
+931,Yash Patel,18,Male,Jaipur,Middle,Active Family Shopper,6859.48
+932,Shreya Nair,36,Other,Chennai,Upper-Middle,Everyday Essentials Shopper,6503.59
+933,Diya Nair,27,Male,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,4207.68
+934,Riya Mehta,43,Other,Kochi,Lower-Middle,Everyday Essentials Shopper,6694.38
+935,Tarun Mehta,29,Female,Bengaluru,Middle,Everyday Essentials Shopper,9094.17
+936,Vikram Nair,26,Female,Ahmedabad,Lower-Middle,Everyday Essentials Shopper,3397.11
+937,Saanvi Mukherjee,38,Other,Mumbai,Low,Everyday Essentials Shopper,6147.13
+938,Anaya Iyer,37,Female,Jaipur,Upper-Middle,Everyday Essentials Shopper,3590.57
+939,Neeraj Iyer,23,Female,Chennai,Upper-Middle,Active Family Shopper,9898.12
+940,Neeraj Khan,25,Female,Ahmedabad,Upper-Middle,Everyday Essentials Shopper,7401.64
+941,Mira Khan,39,Male,Kochi,Lower-Middle,Everyday Essentials Shopper,6750.81
+942,Kabir Iyer,29,Other,Mumbai,Middle,Everyday Essentials Shopper,6539.39
+943,Aryan Nair,23,Female,Delhi,Middle,Everyday Essentials Shopper,6003.83
+944,Yash Iyer,25,Male,Chennai,Lower-Middle,Value-Seeking Homemaker,543.51
+945,Advika Nair,28,Other,Delhi,Low,Avid Reader,3626.02
+946,Ira Reddy,28,Other,Delhi,Middle,Everyday Essentials Shopper,7675.58
+947,Diya Sharma,28,Other,Bengaluru,Lower-Middle,Active Family Shopper,11753.11
+948,Nikhil Patel,35,Male,Bengaluru,Lower-Middle,Everyday Essentials Shopper,7509.81
+949,Yash Sharma,27,Other,Ahmedabad,Upper-Middle,Avid Reader,5866.6
+950,Neeraj Das,33,Other,Pune,Lower-Middle,Avid Reader,5360.42
+951,Aryan Singh,24,Male,Kolkata,Lower-Middle,Avid Reader,11133.58
+952,Advika Singh,31,Female,Bengaluru,Middle,Active Family Shopper,9411.73
+953,Zara Reddy,37,Other,Kolkata,Lower-Middle,Premium Tech Enthusiast,11749.13
+954,Zara Sharma,22,Male,Kochi,Upper-Middle,Everyday Essentials Shopper,9620.45
+955,Kavya Khan,40,Other,Delhi,Upper-Middle,Everyday Essentials Shopper,6362.85
+956,Neeraj Sharma,36,Male,Delhi,Low,Everyday Essentials Shopper,19171.04
+957,Neeraj Mehta,29,Male,Ahmedabad,Low,Everyday Essentials Shopper,2982.42
+958,Aarav Nair,33,Other,Kolkata,Lower-Middle,Everyday Essentials Shopper,15908.73
+959,Saanvi Das,32,Other,Mumbai,Middle,Premium Tech Enthusiast,20041.51
+960,Zara Mehta,29,Female,Kolkata,Upper-Middle,Active Family Shopper,10365.38
+961,Aryan Mukherjee,30,Male,Mumbai,Lower-Middle,Everyday Essentials Shopper,11345.16
+962,Zara Sharma,26,Other,Kochi,Upper-Middle,Everyday Essentials Shopper,4198.86
+963,Shreya Iyer,38,Other,Chennai,Middle,Active Family Shopper,7327.54
+964,Aryan Iyer,25,Other,Pune,Low,Active Family Shopper,18267.91
+965,Yash Singh,24,Other,Hyderabad,Lower-Middle,Avid Reader,3631.93
+966,Advika Das,20,Other,Hyderabad,Lower-Middle,Budget Fashion Hunter,1584.95
+967,Tarun Sharma,30,Other,Pune,Middle,Active Family Shopper,5129.77
+968,Yash Reddy,38,Male,Mumbai,Lower-Middle,Active Family Shopper,2970.92
+969,Nikhil Reddy,22,Female,Kolkata,Low,Active Family Shopper,7833.47
+970,Anaya Singh,37,Female,Kochi,High,Premium Tech Enthusiast,17010.74
+971,Yash Nair,29,Male,Pune,Low,Avid Reader,12276.52
+972,Advika Das,27,Male,Hyderabad,Upper-Middle,Everyday Essentials Shopper,7789.79
+973,Rohan Mehta,32,Other,Kochi,Low,Active Family Shopper,9872.09
+974,Nikhil Reddy,40,Male,Mumbai,Middle,Everyday Essentials Shopper,7527.36
+975,Zara Nair,18,Female,Jaipur,Low,Active Family Shopper,17278.21
+976,Ishan Nair,30,Male,Mumbai,Upper-Middle,Premium Tech Enthusiast,15052.54
+977,Diya Mehta,32,Other,Bengaluru,Upper-Middle,Active Family Shopper,7191.17
+978,Aryan Sharma,37,Male,Ahmedabad,Middle,Active Family Shopper,2139.87
+979,Ira Reddy,24,Male,Hyderabad,Middle,Everyday Essentials Shopper,7557.06
+980,Tarun Iyer,35,Male,Jaipur,Middle,Avid Reader,10596.26
+981,Saanvi Reddy,37,Male,Jaipur,Lower-Middle,Avid Reader,15381.96
+982,Aryan Sharma,28,Female,Bengaluru,Upper-Middle,Avid Reader,10262.81
+983,Kabir Iyer,36,Other,Bengaluru,Middle,Everyday Essentials Shopper,11059.29
+984,Nikhil Nair,35,Male,Delhi,Upper-Middle,Everyday Essentials Shopper,7227.53
+985,Ira Das,28,Male,Mumbai,Upper-Middle,Active Family Shopper,17332.75
+986,Aryan Nair,28,Male,Bengaluru,Upper-Middle,Premium Tech Enthusiast,31782.79
+987,Nikhil Singh,31,Female,Ahmedabad,Middle,Active Family Shopper,12934.04
+988,Kavya Patel,40,Other,Chennai,Middle,Everyday Essentials Shopper,9142.37
+989,Vikram Reddy,29,Male,Jaipur,Middle,Everyday Essentials Shopper,7263.27
+990,Ira Patel,35,Other,Ahmedabad,Middle,Everyday Essentials Shopper,18821.13
+991,Aryan Singh,28,Female,Kolkata,Low,Everyday Essentials Shopper,16470.42
+992,Mira Reddy,44,Male,Kochi,High,Avid Reader,4881.49
+993,Ira Iyer,30,Other,Kochi,Lower-Middle,Premium Tech Enthusiast,13447.32
+994,Kavya Singh,42,Male,Hyderabad,Low,Everyday Essentials Shopper,3481.44
+995,Ishan Mehta,46,Female,Bengaluru,Lower-Middle,Everyday Essentials Shopper,4474.67
+996,Advika Nair,19,Other,Pune,Lower-Middle,Everyday Essentials Shopper,22588.75
+997,Vikram Singh,22,Female,Jaipur,Upper-Middle,Active Family Shopper,10585.99
+998,Yash Nair,45,Male,Mumbai,Upper-Middle,Everyday Essentials Shopper,10707.64
+999,Kabir Patel,19,Male,Ahmedabad,Middle,Everyday Essentials Shopper,12880.87
+1000,Aryan Reddy,27,Other,Ahmedabad,Middle,Everyday Essentials Shopper,19477.69
+1001,Aadi,30,Not specified,Unknown,Middle,New Starter,0.0
